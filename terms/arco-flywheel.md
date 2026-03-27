@@ -9,12 +9,12 @@ The Arco Flywheel is not a metaphor. It is a specific, measurable consequence of
 
 ## Related Terms
 
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Infrastructure Drag](../infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Turnkey Margin](../turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Continuous Regression Loop](../continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Continuous Regression Loop](./continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
 
 ## In the Log
 

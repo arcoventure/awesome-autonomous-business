@@ -10,12 +10,12 @@ The defining characteristic of Sovereign Infrastructure is that no single vendor
 
 ## Related Terms
 
-- [De-SaaS-ing](../de-saas-ing.md) — [De-SaaS-ing on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
-- [UI Tax](../ui-tax.md) — [UI Tax on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
-- [Arco Flywheel](../arco-flywheel.md) — [Arco Flywheel on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
-- [Turnkey Margin](../turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [De-SaaS-ing](./de-saas-ing.md) — [De-SaaS-ing on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
+- [UI Tax](./ui-tax.md) — [UI Tax on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
+- [Arco Flywheel](./arco-flywheel.md) — [Arco Flywheel on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
+- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
 
 ## In the Log
 

@@ -9,11 +9,11 @@ Legacy Liability is not a technology problem. It is an organisational one. A lar
 
 ## Related Terms
 
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Operational Arbitrage](../operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Automated Business](../automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Infrastructure Drag](../infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
 
 ## In the Log
 

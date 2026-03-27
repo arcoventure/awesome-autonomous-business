@@ -11,12 +11,12 @@ A System Steward operates at a different architectural layer entirely. They do n
 
 ## Related Terms
 
-- [The 80 Percent Threshold](../the-80-percent-threshold.md) — [The 80 Percent Threshold on Arco Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [MTTI (Mean Time to Intervention)](../mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [Revenue to Headcount Advantage](../revenue-to-headcount-advantage.md) — [Revenue to Headcount Advantage on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [The 80 Percent Threshold](./the-80-percent-threshold.md) — [The 80 Percent Threshold on Arco Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Revenue to Headcount Advantage](./revenue-to-headcount-advantage.md) — [Revenue to Headcount Advantage on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
 
 ## In the Log
 

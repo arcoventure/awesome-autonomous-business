@@ -9,10 +9,10 @@ The 80% Threshold is the line between an agent-assisted business and an agentic 
 
 ## Related Terms
 
-- [MTTI (Mean Time to Intervention)](../mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
 
 ## In the Log
 

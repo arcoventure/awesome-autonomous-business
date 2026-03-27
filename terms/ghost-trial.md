@@ -9,10 +9,10 @@ A Ghost Trial is a shadow execution: the same logic gates, the same agent workfl
 
 ## Related Terms
 
-- [Continuous Regression Loop](../continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
-- [Logic Decay](../logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
-- [Execution Divergence](../execution-divergence.md) — [Execution Divergence on Arco Lexicon](https://arcoventure.studio/lexicon/execution-divergence)
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Continuous Regression Loop](./continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
+- [Logic Decay](./logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
+- [Execution Divergence](./execution-divergence.md) — [Execution Divergence on Arco Lexicon](https://arcoventure.studio/lexicon/execution-divergence)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
 
 ## In the Log
 

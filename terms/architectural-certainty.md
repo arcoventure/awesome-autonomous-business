@@ -13,9 +13,9 @@ Achieving architectural certainty requires deterministic workflows, explicit exc
 
 ## Related Terms
 
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [MTTI (Mean Time to Intervention)](../mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
 
 ## In the Log
 

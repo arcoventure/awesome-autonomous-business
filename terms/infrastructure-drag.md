@@ -9,11 +9,11 @@ Infrastructure Drag is the hidden tax of the clean-sheet autonomous build. Every
 
 ## Related Terms
 
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Rebuild Tax](../rebuild-tax.md) — [Rebuild Tax on Arco Lexicon](https://arcoventure.studio/lexicon/rebuild-tax)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Legacy Liability](../legacy-liability.md) — [Legacy Liability on Arco Lexicon](https://arcoventure.studio/lexicon/legacy-liability)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [Rebuild Tax](./rebuild-tax.md) — [Rebuild Tax on Arco Lexicon](https://arcoventure.studio/lexicon/rebuild-tax)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Legacy Liability](./legacy-liability.md) — [Legacy Liability on Arco Lexicon](https://arcoventure.studio/lexicon/legacy-liability)
 
 ## In the Log
 

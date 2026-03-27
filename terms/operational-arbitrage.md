@@ -13,11 +13,11 @@ Critically, the arbitrage widens over time. LLM inference costs are falling 60�
 
 ## Related Terms
 
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Workforce Arbitrage](../workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Task Tiers (T1 / T2 / T3)](../t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
+- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
 
 ## In the Log
 

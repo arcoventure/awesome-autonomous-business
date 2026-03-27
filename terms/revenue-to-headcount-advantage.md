@@ -9,11 +9,11 @@ The 10:1 Revenue-to-Headcount Advantage is the quantified expression of what aut
 
 ## Related Terms
 
-- [Automated Business](../automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [MTTI (Mean Time to Intervention)](../mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [The 80 Percent Threshold](../the-80-percent-threshold.md) — [The 80 Percent Threshold on Arco Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [The 80 Percent Threshold](./the-80-percent-threshold.md) — [The 80 Percent Threshold on Arco Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
 
 ## In the Log
 

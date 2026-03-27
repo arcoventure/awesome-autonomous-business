@@ -9,12 +9,12 @@ Logic Decay is the most insidious of the three primary autonomous system failure
 
 ## Related Terms
 
-- [Continuous Regression Loop](../continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
-- [Ghost Trial](../ghost-trial.md) — [Ghost Trial on Arco Lexicon](https://arcoventure.studio/lexicon/ghost-trial)
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Context Leakage](../context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Handoff Friction](../handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
+- [Continuous Regression Loop](./continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
+- [Ghost Trial](./ghost-trial.md) — [Ghost Trial on Arco Lexicon](https://arcoventure.studio/lexicon/ghost-trial)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Context Leakage](./context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Handoff Friction](./handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
 
 ## In the Log
 

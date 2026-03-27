@@ -13,9 +13,9 @@ MTTI should not be confused with uptime or availability. A system can be fully a
 
 ## Related Terms
 
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
 
 ## Links
 

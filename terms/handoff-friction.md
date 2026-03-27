@@ -9,10 +9,10 @@ Handoff Friction is the second of three primary failure modes in autonomous syst
 
 ## Related Terms
 
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Context Leakage](../context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
-- [Legacy Liability](../legacy-liability.md) — [Legacy Liability on Arco Lexicon](https://arcoventure.studio/lexicon/legacy-liability)
-- [Logic Decay](../logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Context Leakage](./context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
+- [Legacy Liability](./legacy-liability.md) — [Legacy Liability on Arco Lexicon](https://arcoventure.studio/lexicon/legacy-liability)
+- [Logic Decay](./logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
 
 ## In the Log
 

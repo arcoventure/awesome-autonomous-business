@@ -13,10 +13,10 @@ Key performance target: Mean Time to Intervention (MTTI) greater than 72 hours. 
 
 ## Related Terms
 
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [MTTI (Mean Time to Intervention)](../mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [Workforce Arbitrage](../workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Operational Arbitrage](../operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
+- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
 
 ## In the Log
 

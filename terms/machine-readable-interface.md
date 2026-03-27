@@ -10,10 +10,10 @@ An MRI exposes pricing, availability, service specification, and transaction ini
 
 ## Related Terms
 
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Turnkey Margin](../turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Handoff Friction](../handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Handoff Friction](./handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
 
 ## In the Log
 

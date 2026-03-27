@@ -9,9 +9,9 @@ The Coordination Tax is not a management failure. It is a structural consequence
 
 ## Related Terms
 
-- [Operational Drag](../operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Workforce Arbitrage](../workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
+- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
 
 ## In the Log
 

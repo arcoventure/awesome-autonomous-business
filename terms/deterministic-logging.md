@@ -10,12 +10,12 @@ In a human-run business, causation is recoverable through memory, testimony, and
 
 ## Related Terms
 
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Key-Man Risk](../key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Liquidity Lock](../liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
-- [Proof of Action](../proof-of-action.md) — [Proof of Action on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
+- [Liquidity Lock](./liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
+- [Proof of Action](./proof-of-action.md) — [Proof of Action on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
 
 ## In the Log
 

@@ -9,10 +9,10 @@ A proven market is one where the demand is documented rather than hypothetical, 
 
 ## Related Terms
 
-- [Operational Arbitrage](../operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Human to Logic Ratio](../human-to-logic-ratio.md) — [Human to Logic Ratio on Arco Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Agentic Core](../agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Infrastructure Drag](../infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
+- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Human to Logic Ratio on Arco Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio)
+- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
 
 ## In the Log
 

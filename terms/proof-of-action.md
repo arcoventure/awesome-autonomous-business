@@ -10,12 +10,12 @@ A traditional due diligence process reconstructs how a business operates through
 
 ## Related Terms
 
-- [Deterministic Logging](../deterministic-logging.md) — [Deterministic Logging on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
-- [Key-Man Risk](../key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Turnkey Margin](../turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Liquidity Lock](../liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
+- [Deterministic Logging](./deterministic-logging.md) — [Deterministic Logging on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
+- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
+- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Liquidity Lock](./liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
 
 ## In the Log
 

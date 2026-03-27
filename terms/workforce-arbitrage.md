@@ -13,9 +13,9 @@ The stewardship model's advantage over pure agentic deployment is credibility an
 
 ## Related Terms
 
-- [Operational Arbitrage](../operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Task Tiers (T1 / T2 / T3)](../t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
+- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
 
 ## In the Log
 

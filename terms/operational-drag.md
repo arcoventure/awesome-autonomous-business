@@ -9,10 +9,10 @@ Operational Drag is Arco's primary metric for assessing the architectural health
 
 ## Related Terms
 
-- [Autonomous Business](../autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Rebuild Tax](../rebuild-tax.md) — [Rebuild Tax on Arco Lexicon](https://arcoventure.studio/lexicon/rebuild-tax)
+- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Rebuild Tax](./rebuild-tax.md) — [Rebuild Tax on Arco Lexicon](https://arcoventure.studio/lexicon/rebuild-tax)
 
 ## In the Log
 

@@ -10,9 +10,9 @@ An autonomous agent operates on none of these signals. It calls an API endpoint 
 
 ## Related Terms
 
-- [De-SaaS-ing](../de-saas-ing.md) — [De-SaaS-ing on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
-- [Operational Drag](../operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Automated Business](../automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [De-SaaS-ing](./de-saas-ing.md) — [De-SaaS-ing on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
+- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
+- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
 
 ## In the Log
 

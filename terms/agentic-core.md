@@ -9,11 +9,11 @@ The Agentic Core is Arco's primary structural asset — the accumulated engineer
 
 ## Related Terms
 
-- [Infrastructure Drag](../infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Automated Business](../automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Proven Market](../proven-market.md) — [Proven Market on Arco Lexicon](https://arcoventure.studio/lexicon/proven-market)
+- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [Proven Market](./proven-market.md) — [Proven Market on Arco Lexicon](https://arcoventure.studio/lexicon/proven-market)
 
 ## In the Log
 

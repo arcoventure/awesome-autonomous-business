@@ -9,11 +9,11 @@ A Continuous Regression Loop is not a scheduled test or a deployment gate. It ru
 
 ## Related Terms
 
-- [Logic Decay](../logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
-- [Execution Divergence](../execution-divergence.md) — [Execution Divergence on Arco Lexicon](https://arcoventure.studio/lexicon/execution-divergence)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Ghost Trial](../ghost-trial.md) — [Ghost Trial on Arco Lexicon](https://arcoventure.studio/lexicon/ghost-trial)
+- [Logic Decay](./logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
+- [Execution Divergence](./execution-divergence.md) — [Execution Divergence on Arco Lexicon](https://arcoventure.studio/lexicon/execution-divergence)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Ghost Trial](./ghost-trial.md) — [Ghost Trial on Arco Lexicon](https://arcoventure.studio/lexicon/ghost-trial)
 
 ## In the Log
 

@@ -9,11 +9,11 @@ Turnkey Margin is what an acquirer receives when they purchase an Arco business 
 
 ## Related Terms
 
-- [Key-Man Risk](../key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Revenue to Headcount Advantage](../revenue-to-headcount-advantage.md) — [Revenue to Headcount Advantage on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
-- [Deterministic Failure](../deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Revenue to Headcount Advantage](./revenue-to-headcount-advantage.md) — [Revenue to Headcount Advantage on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
+- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
 
 ## In the Log
 

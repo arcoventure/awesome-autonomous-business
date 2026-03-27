@@ -10,12 +10,12 @@ An autonomous business that achieves Architectural Certainty — running without
 
 ## Related Terms
 
-- [Proof of Action](../proof-of-action.md) — [Proof of Action on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
-- [Deterministic Logging](../deterministic-logging.md) — [Deterministic Logging on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
-- [Turnkey Margin](../turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Key-Man Risk](../key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Stewardship Model](../stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Proof of Action](./proof-of-action.md) — [Proof of Action on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
+- [Deterministic Logging](./deterministic-logging.md) — [Deterministic Logging on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
+- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
 
 ## In the Log
 

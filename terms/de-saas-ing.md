@@ -9,11 +9,11 @@ De-SaaS-ing is not a cost-cutting exercise. It is an architectural realignment. 
 
 ## Related Terms
 
-- [Operational Drag](../operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Arco Flywheel](../arco-flywheel.md) — [Arco Flywheel on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [UI Tax](../ui-tax.md) — [UI Tax on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
+- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Arco Flywheel](./arco-flywheel.md) — [Arco Flywheel on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [UI Tax](./ui-tax.md) — [UI Tax on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
 
 ## In the Log
 

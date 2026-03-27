@@ -9,10 +9,10 @@ The Rebuild Tax is the hidden cost of the MVP model. When a startup builds for e
 
 ## Related Terms
 
-- [Architectural Certainty](../architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Coordination Tax](../coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Operational Drag](../operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Automated Business](../automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
+- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
+- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
+- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
 
 ## In the Log
 
