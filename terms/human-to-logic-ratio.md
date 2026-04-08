@@ -9,19 +9,21 @@ The Human-to-Logic Ratio measures how much of a market's value creation depends 
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Proven Market](./proven-market.md) — [Proven Market on Arco Lexicon](https://arcoventure.studio/lexicon/proven-market)
+- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
+- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
+- [Proven Market](./proven-market.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/proven-market)
 
 ## In the Log
 
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
+- [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 
 ## Links
 
 - [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio)
 - [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/human-to-logic-ratio)
+- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/human-to-logic-ratio.md)
 
 ---
 
