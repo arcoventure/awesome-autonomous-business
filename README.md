@@ -65,12 +65,6 @@ awesome-autonomous-business/
 - **For developers & builders**: Use the Markdown files as reference when implementing agentic workflows.
 - **For researchers & writers**: Cite definitions with links back to this repo or the official Lexicon.
 
-## Contributing
-
-We welcome thoughtful contributions that keep the lexicon precise, metric-driven, and focused on real operational outcomes.
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines (PRs for new terms, clarifications, examples, or corrections are encouraged).
-
 ## Ecosystem
 
 - **Main Site**: [arcoventure.studio](https://arcoventure.studio) — Arco Venture Studio
