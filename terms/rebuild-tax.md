@@ -24,8 +24,8 @@ The Rebuild Tax is the hidden cost of the MVP model. When a startup builds for e
 
 ## Metadata
 
-first_used: 2026-03-17
-pillar: How We Think
+**First used:** 2026-03-17  
+**Pillar:** How We Think
 
 ---
 

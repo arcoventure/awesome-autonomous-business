@@ -32,8 +32,8 @@ Arco treats the declaration layer as infrastructure, not content. The llms.txt f
 
 ## Metadata
 
-first_used: 2026-04-06
-pillar: What We've Learned
+**First used:** 2026-04-06  
+**Pillar:** What We've Learned
 
 ---
 

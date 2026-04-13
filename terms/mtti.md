@@ -23,8 +23,8 @@ MTTI should not be confused with uptime or availability. A system can be fully a
 
 ## Metadata
 
-first_used: 2026-03-15
-pillar: What We've Learned
+**First used:** 2026-03-15  
+**Pillar:** What We've Learned
 
 ---
 

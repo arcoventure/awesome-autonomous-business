@@ -29,8 +29,8 @@ When all three conditions are present, the market is not being competed on the q
 
 ## Metadata
 
-first_used: 2026-03-31
-pillar: What We Observe
+**First used:** 2026-03-31  
+**Pillar:** What We Observe
 
 ---
 

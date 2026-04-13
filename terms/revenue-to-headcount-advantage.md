@@ -25,8 +25,8 @@ The 10:1 Revenue-to-Headcount Advantage is the quantified expression of what aut
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

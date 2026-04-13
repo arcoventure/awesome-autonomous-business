@@ -29,8 +29,8 @@ A System Steward operates at a different architectural layer entirely. They do n
 
 ## Metadata
 
-first_used: 2026-03-21
-pillar: How We Think
+**First used:** 2026-03-21  
+**Pillar:** How We Think
 
 ---
 

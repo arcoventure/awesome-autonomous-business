@@ -39,8 +39,8 @@ This inversion is not gradual. It is the consequence of a binary architectural c
 
 ## Metadata
 
-first_used: 2026-04-11
-pillar: How We Think
+**First used:** 2026-04-11  
+**Pillar:** How We Think
 
 ---
 

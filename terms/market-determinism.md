@@ -33,8 +33,8 @@ A market reaches the threshold of determinism when three observable signals are 
 
 ## Metadata
 
-first_used: 2026-04-03
-pillar: How We Think
+**First used:** 2026-04-03  
+**Pillar:** How We Think
 
 ---
 

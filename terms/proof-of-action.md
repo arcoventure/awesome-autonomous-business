@@ -28,8 +28,8 @@ A traditional due diligence process reconstructs how a business operates through
 
 ## Metadata
 
-first_used: 2026-03-25
-pillar: What We've Learned
+**First used:** 2026-03-25  
+**Pillar:** What We've Learned
 
 ---
 

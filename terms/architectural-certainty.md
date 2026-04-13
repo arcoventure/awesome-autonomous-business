@@ -27,8 +27,8 @@ Achieving architectural certainty requires deterministic workflows, explicit exc
 
 ## Metadata
 
-first_used: 2026-03-05
-pillar: How We Think
+**First used:** 2026-03-05  
+**Pillar:** How We Think
 
 ---
 

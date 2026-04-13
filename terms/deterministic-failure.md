@@ -26,8 +26,8 @@ Deterministic Failure is the opposite of a black box failure. In a non-determini
 
 ## Metadata
 
-first_used: 2026-03-20
-pillar: How We Think
+**First used:** 2026-03-20  
+**Pillar:** How We Think
 
 ---
 

@@ -25,8 +25,8 @@ Infrastructure Drag is the hidden tax of the clean-sheet autonomous build. Every
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

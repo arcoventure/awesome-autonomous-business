@@ -39,8 +39,8 @@ The Coordination Trap is distinct from the Automation Paradox, though the two co
 
 ## Metadata
 
-first_used: 2026-04-09
-pillar: What We Observe
+**First used:** 2026-04-09  
+**Pillar:** What We Observe
 
 ---
 

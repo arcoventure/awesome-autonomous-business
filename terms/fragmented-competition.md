@@ -28,8 +28,8 @@ This is the signal. Fragmentation in a labour-intensive service market is not ev
 
 ## Metadata
 
-first_used: 2026-03-30
-pillar: What We Observe
+**First used:** 2026-03-30  
+**Pillar:** What We Observe
 
 ---
 

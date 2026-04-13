@@ -26,8 +26,8 @@ An MRI exposes pricing, availability, service specification, and transaction ini
 
 ## Metadata
 
-first_used: 2026-03-23
-pillar: What We Observe
+**First used:** 2026-03-23  
+**Pillar:** What We Observe
 
 ---
 

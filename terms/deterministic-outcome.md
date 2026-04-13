@@ -26,8 +26,8 @@ Markets where the primary evaluation is non-deterministic — where the standard
 
 ## Metadata
 
-first_used: 2026-03-29
-pillar: How We Think
+**First used:** 2026-03-29  
+**Pillar:** How We Think
 
 ---
 

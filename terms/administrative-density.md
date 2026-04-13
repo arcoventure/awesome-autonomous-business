@@ -27,8 +27,8 @@ High Administrative Density is not a management failure. In most cases, it is th
 
 ## Metadata
 
-first_used: 2026-03-31
-pillar: What We Observe
+**First used:** 2026-03-31  
+**Pillar:** What We Observe
 
 ---
 

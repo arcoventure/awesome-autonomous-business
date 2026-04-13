@@ -26,8 +26,8 @@ Logic Decay is the most insidious of the three primary autonomous system failure
 
 ## Metadata
 
-first_used: 2026-03-23
-pillar: What We've Learned
+**First used:** 2026-03-23  
+**Pillar:** What We've Learned
 
 ---
 

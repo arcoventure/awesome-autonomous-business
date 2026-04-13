@@ -28,8 +28,8 @@ The Deterministic Loop is distinct from the Revenue Loop. The Revenue Loop descr
 
 ## Metadata
 
-first_used: 2026-03-31
-pillar: How We Think
+**First used:** 2026-03-31  
+**Pillar:** How We Think
 
 ---
 

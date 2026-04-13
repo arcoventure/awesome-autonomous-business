@@ -28,8 +28,8 @@ The stewardship model's advantage over pure agentic deployment is credibility an
 
 ## Metadata
 
-first_used: 2026-03-05
-pillar: How We Think
+**First used:** 2026-03-05  
+**Pillar:** How We Think
 
 ---
 

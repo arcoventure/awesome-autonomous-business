@@ -25,8 +25,8 @@ De-SaaS-ing is not a cost-cutting exercise. It is an architectural realignment. 
 
 ## Metadata
 
-first_used: 2026-03-24
-pillar: What We Observe
+**First used:** 2026-03-24  
+**Pillar:** What We Observe
 
 ---
 

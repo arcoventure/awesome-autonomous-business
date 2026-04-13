@@ -24,8 +24,8 @@ Execution Divergence is not an error state. It is a continuous measurement — t
 
 ## Metadata
 
-first_used: 2026-03-20
-pillar: How We Think
+**First used:** 2026-03-20  
+**Pillar:** How We Think
 
 ---
 

@@ -24,8 +24,8 @@ The 80% Threshold is the line between an agent-assisted business and an agentic 
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

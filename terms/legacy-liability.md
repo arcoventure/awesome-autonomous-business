@@ -27,8 +27,8 @@ Legacy Liability is not a technology problem. It is an organisational one. A lar
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

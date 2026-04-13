@@ -25,8 +25,8 @@ Key-Man Risk is not a management failure. It is an architectural one. In a human
 
 ## Metadata
 
-first_used: 2026-03-21
-pillar: What We Observe
+**First used:** 2026-03-21  
+**Pillar:** What We Observe
 
 ---
 

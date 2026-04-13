@@ -32,8 +32,8 @@ At T1 — routine, scripted, high-volume tasks with binary outcomes and low risk
 
 ## Metadata
 
-first_used: 2026-04-07
-pillar: How We Think
+**First used:** 2026-04-07  
+**Pillar:** How We Think
 
 ---
 

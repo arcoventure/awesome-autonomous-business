@@ -31,8 +31,8 @@ The Coordination Surface exists at every scale. At the task level, it is the ema
 
 ## Metadata
 
-first_used: 2026-04-03
-pillar: What We Observe
+**First used:** 2026-04-03  
+**Pillar:** What We Observe
 
 ---
 

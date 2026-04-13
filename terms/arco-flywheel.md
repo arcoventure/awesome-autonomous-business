@@ -26,8 +26,8 @@ The Arco Flywheel is not a metaphor. It is a specific, measurable consequence of
 
 ## Metadata
 
-first_used: 2026-03-20
-pillar: What We've Learned
+**First used:** 2026-03-20  
+**Pillar:** What We've Learned
 
 ---
 

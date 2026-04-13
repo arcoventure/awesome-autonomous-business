@@ -27,8 +27,8 @@ The defining characteristic of Sovereign Infrastructure is that no single vendor
 
 ## Metadata
 
-first_used: 2026-03-24
-pillar: What We've Learned
+**First used:** 2026-03-24  
+**Pillar:** What We've Learned
 
 ---
 

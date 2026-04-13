@@ -37,8 +37,8 @@ The distinction between Headcount Decoupling and the Coordination Trap is the de
 
 ## Metadata
 
-first_used: 2026-04-09
-pillar: How We Think
+**First used:** 2026-04-09  
+**Pillar:** How We Think
 
 ---
 

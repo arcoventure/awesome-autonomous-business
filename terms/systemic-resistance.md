@@ -25,8 +25,8 @@ The diagnostic question is: if the human were removed from the critical path, wo
 
 ## Metadata
 
-first_used: 2026-03-28
-pillar: What We Observe
+**First used:** 2026-03-28  
+**Pillar:** What We Observe
 
 ---
 

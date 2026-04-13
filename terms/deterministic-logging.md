@@ -28,8 +28,8 @@ In a human-run business, causation is recoverable through memory, testimony, and
 
 ## Metadata
 
-first_used: 2026-03-25
-pillar: What We've Learned
+**First used:** 2026-03-25  
+**Pillar:** What We've Learned
 
 ---
 

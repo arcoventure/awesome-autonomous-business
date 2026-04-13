@@ -25,8 +25,8 @@ The Agentic Core is Arco's primary structural asset — the accumulated engineer
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

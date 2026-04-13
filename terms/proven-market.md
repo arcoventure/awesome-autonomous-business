@@ -25,8 +25,8 @@ A proven market is one where the demand is documented rather than hypothetical, 
 
 ## Metadata
 
-first_used: 2026-03-19
-pillar: How We Think
+**First used:** 2026-03-19  
+**Pillar:** How We Think
 
 ---
 

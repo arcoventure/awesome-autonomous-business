@@ -25,8 +25,8 @@ Turnkey Margin is what an acquirer receives when they purchase an Arco business 
 
 ## Metadata
 
-first_used: 2026-03-21
-pillar: What We've Learned
+**First used:** 2026-03-21  
+**Pillar:** What We've Learned
 
 ---
 

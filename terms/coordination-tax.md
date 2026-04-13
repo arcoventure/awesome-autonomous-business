@@ -23,8 +23,8 @@ The Coordination Tax is not a management failure. It is a structural consequence
 
 ## Metadata
 
-first_used: 2026-03-17
-pillar: How We Think
+**First used:** 2026-03-17  
+**Pillar:** How We Think
 
 ---
 

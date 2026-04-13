@@ -24,8 +24,8 @@ An autonomous agent operates on none of these signals. It calls an API endpoint 
 
 ## Metadata
 
-first_used: 2026-03-24
-pillar: What We Observe
+**First used:** 2026-03-24  
+**Pillar:** What We Observe
 
 ---
 

@@ -24,8 +24,8 @@ Operational Drag is Arco's primary metric for assessing the architectural health
 
 ## Metadata
 
-first_used: 2026-03-17
-pillar: How We Think
+**First used:** 2026-03-17  
+**Pillar:** How We Think
 
 ---
 

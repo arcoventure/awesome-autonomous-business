@@ -28,8 +28,8 @@ The Revenue Loop is not a revenue model. It is a description of the mechanical s
 
 ## Metadata
 
-first_used: 2026-03-29
-pillar: How We Think
+**First used:** 2026-03-29  
+**Pillar:** How We Think
 
 ---
 

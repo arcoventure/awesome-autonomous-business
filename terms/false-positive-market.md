@@ -28,8 +28,8 @@ The failure mode is specific. High activity in a market is typically read as a s
 
 ## Metadata
 
-first_used: 2026-03-29
-pillar: What We Observe
+**First used:** 2026-03-29  
+**Pillar:** What We Observe
 
 ---
 

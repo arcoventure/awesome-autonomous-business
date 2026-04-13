@@ -35,8 +35,8 @@ In an autonomous operation, the incremental cost of an additional unit of output
 
 ## Metadata
 
-first_used: 2026-04-07
-pillar: How We Think
+**First used:** 2026-04-07  
+**Pillar:** How We Think
 
 ---
 

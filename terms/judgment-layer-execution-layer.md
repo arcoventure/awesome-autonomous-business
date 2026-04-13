@@ -29,8 +29,8 @@ In legacy firms, these two layers are fused. A human performs both the execution
 
 ## Metadata
 
-first_used: 2026-03-30
-pillar: How We Think
+**First used:** 2026-03-30  
+**Pillar:** How We Think
 
 ---
 

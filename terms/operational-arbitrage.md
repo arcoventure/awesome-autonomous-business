@@ -29,8 +29,8 @@ Critically, the arbitrage widens over time. LLM inference costs are falling 60â€
 
 ## Metadata
 
-first_used: 2026-03-15
-pillar: How We Think
+**First used:** 2026-03-15  
+**Pillar:** How We Think
 
 ---
 

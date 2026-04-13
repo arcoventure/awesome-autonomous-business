@@ -25,8 +25,8 @@ Context Leakage is the most common failure mode in long-running agentic workflow
 
 ## Metadata
 
-first_used: 2026-03-20
-pillar: How We Think
+**First used:** 2026-03-20  
+**Pillar:** How We Think
 
 ---
 

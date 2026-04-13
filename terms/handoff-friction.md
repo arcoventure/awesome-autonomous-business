@@ -24,8 +24,8 @@ Handoff Friction is the second of three primary failure modes in autonomous syst
 
 ## Metadata
 
-first_used: 2026-03-23
-pillar: What We've Learned
+**First used:** 2026-03-23  
+**Pillar:** What We've Learned
 
 ---
 

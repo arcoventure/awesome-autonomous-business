@@ -24,8 +24,8 @@ A Ghost Trial is a shadow execution: the same logic gates, the same agent workfl
 
 ## Metadata
 
-first_used: 2026-03-20
-pillar: How We Think
+**First used:** 2026-03-20  
+**Pillar:** How We Think
 
 ---
 

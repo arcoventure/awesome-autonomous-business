@@ -29,8 +29,8 @@ The Escalation Rate is not a fixed target across the portfolio. It is tier-depen
 
 ## Metadata
 
-first_used: 2026-04-07
-pillar: How We Think
+**First used:** 2026-04-07  
+**Pillar:** How We Think
 
 ---
 
