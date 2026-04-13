@@ -2,8 +2,10 @@ name: Refresh MCP Cache
 
 on:
   push:
+    branches: [main]
     paths:
       - 'terms/*.md'
+  workflow_dispatch:
 
 jobs:
   refresh:
