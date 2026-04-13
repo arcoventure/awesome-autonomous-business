@@ -25,7 +25,7 @@ When all three conditions are present, the market is not being competed on the q
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/breakable-market) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/breakable-market) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/breakable-market) — extended entry
 
 ## Metadata
 

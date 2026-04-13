@@ -25,7 +25,7 @@ In legacy firms, these two layers are fused. A human performs both the execution
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/judgment-layer-execution-layer) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/judgment-layer-execution-layer) — extended entry
 
 ## Metadata
 

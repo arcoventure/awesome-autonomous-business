@@ -21,7 +21,7 @@ Turnkey Margin is what an acquirer receives when they purchase an Arco business 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/turnkey-margin) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/turnkey-margin) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/turnkey-margin) — extended entry
 
 ## Metadata
 

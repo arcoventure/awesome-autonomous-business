@@ -20,7 +20,7 @@ Operational Drag is Arco's primary metric for assessing the architectural health
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/operational-drag) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/operational-drag) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/operational-drag) — extended entry
 
 ## Metadata
 

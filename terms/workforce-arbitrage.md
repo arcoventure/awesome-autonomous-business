@@ -24,7 +24,7 @@ The stewardship model's advantage over pure agentic deployment is credibility an
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/workforce-arbitrage) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/workforce-arbitrage) — extended entry
 
 ## Metadata
 

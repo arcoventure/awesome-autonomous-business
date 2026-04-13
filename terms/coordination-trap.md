@@ -35,7 +35,7 @@ The Coordination Trap is distinct from the Automation Paradox, though the two co
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/coordination-trap) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/coordination-trap) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/coordination-trap) — extended entry
 
 ## Metadata
 

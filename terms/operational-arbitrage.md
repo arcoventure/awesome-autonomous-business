@@ -25,7 +25,7 @@ Critically, the arbitrage widens over time. LLM inference costs are falling 60�
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/operational-arbitrage) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/operational-arbitrage) — extended entry
 
 ## Metadata
 

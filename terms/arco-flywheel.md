@@ -22,7 +22,7 @@ The Arco Flywheel is not a metaphor. It is a specific, measurable consequence of
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/arco-flywheel) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/arco-flywheel) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/arco-flywheel) — extended entry
 
 ## Metadata
 

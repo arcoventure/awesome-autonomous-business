@@ -23,7 +23,7 @@ Legacy Liability is not a technology problem. It is an organisational one. A lar
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/legacy-liability) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/legacy-liability) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/legacy-liability) — extended entry
 
 ## Metadata
 

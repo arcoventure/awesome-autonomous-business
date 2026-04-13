@@ -21,7 +21,7 @@ A Continuous Regression Loop is not a scheduled test or a deployment gate. It ru
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/continuous-regression-loop) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/continuous-regression-loop) — extended entry
 
 ## Metadata
 

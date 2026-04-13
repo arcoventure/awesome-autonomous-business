@@ -20,7 +20,7 @@ An autonomous agent operates on none of these signals. It calls an API endpoint 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/ui-tax) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/ui-tax) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/ui-tax) — extended entry
 
 ## Metadata
 

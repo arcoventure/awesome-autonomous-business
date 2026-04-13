@@ -20,7 +20,7 @@ The Rebuild Tax is the hidden cost of the MVP model. When a startup builds for e
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/rebuild-tax) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/rebuild-tax) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/rebuild-tax) — extended entry
 
 ## Metadata
 

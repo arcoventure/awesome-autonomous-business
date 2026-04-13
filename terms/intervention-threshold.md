@@ -28,7 +28,7 @@ At T1 — routine, scripted, high-volume tasks with binary outcomes and low risk
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/intervention-threshold) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/intervention-threshold) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/intervention-threshold) — extended entry
 
 ## Metadata
 

@@ -20,7 +20,7 @@ Execution Divergence is not an error state. It is a continuous measurement — t
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/execution-divergence) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/execution-divergence) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/execution-divergence) — extended entry
 
 ## Metadata
 

@@ -21,7 +21,7 @@ The diagnostic question is: if the human were removed from the critical path, wo
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/systemic-resistance) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/systemic-resistance) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/systemic-resistance) — extended entry
 
 ## Metadata
 

@@ -25,7 +25,7 @@ The Escalation Rate is not a fixed target across the portfolio. It is tier-depen
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/escalation-rate) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/escalation-rate) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/escalation-rate) — extended entry
 
 ## Metadata
 

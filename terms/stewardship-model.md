@@ -25,7 +25,7 @@ Key performance target: Mean Time to Intervention (MTTI) greater than 72 hours. 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/stewardship-model) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/stewardship-model) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/stewardship-model) — extended entry
 
 ## Metadata
 

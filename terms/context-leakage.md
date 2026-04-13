@@ -21,7 +21,7 @@ Context Leakage is the most common failure mode in long-running agentic workflow
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/context-leakage) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/context-leakage) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/context-leakage) — extended entry
 
 ## Metadata
 

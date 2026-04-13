@@ -27,7 +27,7 @@ The Coordination Surface exists at every scale. At the task level, it is the ema
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/coordination-surface) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/coordination-surface) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/coordination-surface) — extended entry
 
 ## Metadata
 

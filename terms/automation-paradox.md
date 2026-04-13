@@ -30,7 +30,7 @@ The Automation Paradox compounds the Coordination Trap. Where the Coordination T
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/automation-paradox) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/automation-paradox) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/automation-paradox) — extended entry
 
 ## Metadata
 

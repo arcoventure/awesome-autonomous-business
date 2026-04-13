@@ -21,7 +21,7 @@ A proven market is one where the demand is documented rather than hypothetical, 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/proven-market) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/proven-market) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/proven-market) — extended entry
 
 ## Metadata
 

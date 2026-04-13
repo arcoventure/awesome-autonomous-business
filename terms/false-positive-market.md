@@ -24,7 +24,7 @@ The failure mode is specific. High activity in a market is typically read as a s
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/false-positive-market) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/false-positive-market) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/false-positive-market) — extended entry
 
 ## Metadata
 

@@ -33,7 +33,7 @@ The distinction between Headcount Decoupling and the Coordination Trap is the de
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/headcount-decoupling) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/headcount-decoupling) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/headcount-decoupling) — extended entry
 
 ## Metadata
 

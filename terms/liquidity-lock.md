@@ -24,7 +24,7 @@ An autonomous business that achieves Architectural Certainty — running without
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/liquidity-lock) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/liquidity-lock) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/liquidity-lock) — extended entry
 
 ## Metadata
 

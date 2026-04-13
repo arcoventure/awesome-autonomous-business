@@ -22,7 +22,7 @@ Markets where the primary evaluation is non-deterministic — where the standard
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/deterministic-outcome) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-outcome) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-outcome) — extended entry
 
 ## Metadata
 

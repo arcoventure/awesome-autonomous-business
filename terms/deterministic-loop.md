@@ -24,7 +24,7 @@ The Deterministic Loop is distinct from the Revenue Loop. The Revenue Loop descr
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/deterministic-loop) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-loop) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-loop) — extended entry
 
 ## Metadata
 

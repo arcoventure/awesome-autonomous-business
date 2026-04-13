@@ -21,7 +21,7 @@ The Agentic Core is Arco's primary structural asset — the accumulated engineer
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/agentic-core) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/agentic-core) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/agentic-core) — extended entry
 
 ## Metadata
 

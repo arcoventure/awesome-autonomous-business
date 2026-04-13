@@ -35,7 +35,7 @@ This inversion is not gradual. It is the consequence of a binary architectural c
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/inverse-complexity-scaling) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/inverse-complexity-scaling) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/inverse-complexity-scaling) — extended entry
 
 ## Metadata
 

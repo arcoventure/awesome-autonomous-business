@@ -22,7 +22,7 @@ Logic Decay is the most insidious of the three primary autonomous system failure
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/logic-decay) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/logic-decay) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/logic-decay) — extended entry
 
 ## Metadata
 

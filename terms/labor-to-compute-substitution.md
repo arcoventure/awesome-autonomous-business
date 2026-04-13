@@ -31,7 +31,7 @@ In an autonomous operation, the incremental cost of an additional unit of output
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/labor-to-compute-substitution) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/labor-to-compute-substitution) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/labor-to-compute-substitution) — extended entry
 
 ## Metadata
 

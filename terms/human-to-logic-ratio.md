@@ -21,7 +21,7 @@ The Human-to-Logic Ratio measures how much of a market's value creation depends 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/human-to-logic-ratio) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/human-to-logic-ratio) — extended entry
 
 ## Metadata
 

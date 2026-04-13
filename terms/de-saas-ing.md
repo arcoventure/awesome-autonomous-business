@@ -21,7 +21,7 @@ De-SaaS-ing is not a cost-cutting exercise. It is an architectural realignment. 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/de-saas-ing) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/de-saas-ing) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/de-saas-ing) — extended entry
 
 ## Metadata
 

@@ -19,7 +19,7 @@ An automated business is not a poorly run business. It is a business that has ap
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/automated-business) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/automated-business) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/automated-business) — extended entry
 
 ## Metadata
 

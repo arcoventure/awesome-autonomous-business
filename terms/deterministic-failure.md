@@ -22,7 +22,7 @@ Deterministic Failure is the opposite of a black box failure. In a non-determini
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/deterministic-failure) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-failure) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-failure) — extended entry
 
 ## Metadata
 

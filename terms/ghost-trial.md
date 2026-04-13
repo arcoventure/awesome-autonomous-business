@@ -20,7 +20,7 @@ A Ghost Trial is a shadow execution: the same logic gates, the same agent workfl
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/ghost-trial) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/ghost-trial) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/ghost-trial) — extended entry
 
 ## Metadata
 

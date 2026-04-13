@@ -23,7 +23,7 @@ Achieving architectural certainty requires deterministic workflows, explicit exc
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/architectural-certainty) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/architectural-certainty) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/architectural-certainty) — extended entry
 
 ## Metadata
 

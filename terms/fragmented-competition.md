@@ -24,7 +24,7 @@ This is the signal. Fragmentation in a labour-intensive service market is not ev
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/fragmented-competition) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/fragmented-competition) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/fragmented-competition) — extended entry
 
 ## Metadata
 

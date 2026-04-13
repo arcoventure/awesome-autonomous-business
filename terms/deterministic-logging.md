@@ -24,7 +24,7 @@ In a human-run business, causation is recoverable through memory, testimony, and
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/deterministic-logging) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-logging) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-logging) — extended entry
 
 ## Metadata
 

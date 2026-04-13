@@ -20,7 +20,7 @@ Handoff Friction is the second of three primary failure modes in autonomous syst
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/handoff-friction) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/handoff-friction) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/handoff-friction) — extended entry
 
 ## Metadata
 

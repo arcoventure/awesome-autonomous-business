@@ -19,7 +19,7 @@ MTTI should not be confused with uptime or availability. A system can be fully a
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/mtti) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/mtti) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/mtti) — extended entry
 
 ## Metadata
 

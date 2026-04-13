@@ -23,7 +23,7 @@ The defining characteristic of Sovereign Infrastructure is that no single vendor
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/sovereign-infrastructure) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/sovereign-infrastructure) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/sovereign-infrastructure) — extended entry
 
 ## Metadata
 

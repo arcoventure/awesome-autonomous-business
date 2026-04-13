@@ -24,7 +24,7 @@ A traditional due diligence process reconstructs how a business operates through
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/proof-of-action) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/proof-of-action) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/proof-of-action) — extended entry
 
 ## Metadata
 

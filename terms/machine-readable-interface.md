@@ -22,7 +22,7 @@ An MRI exposes pricing, availability, service specification, and transaction ini
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/machine-readable-interface) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/machine-readable-interface) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/machine-readable-interface) — extended entry
 
 ## Metadata
 

@@ -21,7 +21,7 @@ The 10:1 Revenue-to-Headcount Advantage is the quantified expression of what aut
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/revenue-to-headcount-advantage) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/revenue-to-headcount-advantage) — extended entry
 
 ## Metadata
 

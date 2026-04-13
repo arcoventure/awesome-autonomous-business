@@ -19,7 +19,7 @@ The Coordination Tax is not a management failure. It is a structural consequence
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/coordination-tax) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/coordination-tax) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/coordination-tax) — extended entry
 
 ## Metadata
 

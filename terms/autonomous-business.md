@@ -25,7 +25,7 @@ The defining characteristic is Architectural Certainty: the business logic is so
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/autonomous-business) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/autonomous-business) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/autonomous-business) — extended entry
 
 ## Metadata
 

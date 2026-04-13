@@ -28,7 +28,7 @@ Arco treats the declaration layer as infrastructure, not content. The llms.txt f
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/declaration-layer) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/declaration-layer) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/declaration-layer) — extended entry
 
 ## Metadata
 

@@ -24,7 +24,7 @@ The Revenue Loop is not a revenue model. It is a description of the mechanical s
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/revenue-loop) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/revenue-loop) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/revenue-loop) — extended entry
 
 ## Metadata
 

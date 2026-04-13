@@ -21,7 +21,7 @@ Key-Man Risk is not a management failure. It is an architectural one. In a human
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/key-man-risk) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/key-man-risk) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/key-man-risk) — extended entry
 
 ## Metadata
 

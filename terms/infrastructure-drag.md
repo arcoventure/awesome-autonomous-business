@@ -21,7 +21,7 @@ Infrastructure Drag is the hidden tax of the clean-sheet autonomous build. Every
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/infrastructure-drag) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/infrastructure-drag) — extended entry
 
 ## Metadata
 

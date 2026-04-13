@@ -23,7 +23,7 @@ High Administrative Density is not a management failure. In most cases, it is th
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/administrative-density) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/administrative-density) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/administrative-density) — extended entry
 
 ## Metadata
 

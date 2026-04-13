@@ -29,7 +29,7 @@ A market reaches the threshold of determinism when three observable signals are 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/market-determinism) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/market-determinism) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/market-determinism) — extended entry
 
 ## Metadata
 

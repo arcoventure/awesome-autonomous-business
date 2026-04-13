@@ -25,7 +25,7 @@ A System Steward operates at a different architectural layer entirely. They do n
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/process-worker-system-steward) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/process-worker-system-steward) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/process-worker-system-steward) — extended entry
 
 ## Metadata
 

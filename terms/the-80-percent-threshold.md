@@ -20,7 +20,7 @@ The 80% Threshold is the line between an agent-assisted business and an agentic 
 ## References
 
 - [Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold) — canonical definition
-- [Wiki](https://wiki.arcoventure.studio/docs/the-80-percent-threshold) — extended entry
+- [Wiki](https://wiki.arcoventure.studio/lexicon/the-80-percent-threshold) — extended entry
 
 ## Metadata
 
