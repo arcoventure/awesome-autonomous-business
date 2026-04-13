@@ -1,0 +1,19 @@
+name: Refresh MCP Cache
+
+on:
+  push:
+    paths:
+      - 'terms/*.md'
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Ping MCP admin refresh
+        run: |
+          curl -X POST https://mcp.arcoventure.studio/admin/refresh \
+            -H "Authorization: Bearer ${{ secrets.MCP_REFRESH_TOKEN }}" \
+            -H "Content-Type: application/json" \
+            --fail \
+            --silent \
+            --show-error
