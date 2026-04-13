@@ -1,6 +1,5 @@
 # Handoff Friction
 
-**Canonical definition (Arco Lexicon)**
 > The failure mode that occurs at system integration points when an agent encounters an unexpected data format or schema from a receiving system and attempts to resolve the mismatch autonomously rather than reporting it — producing a hallucinated fix that propagates through the workflow as correct data.
 
 ## Extended Definition
@@ -9,22 +8,25 @@ Handoff Friction is the second of three primary failure modes in autonomous syst
 
 ## Related Terms
 
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Context Leakage](./context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
-- [Legacy Liability](./legacy-liability.md) — [Legacy Liability on Arco Lexicon](https://arcoventure.studio/lexicon/legacy-liability)
-- [Logic Decay](./logic-decay.md) — [Logic Decay on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Handoff Friction should be resolved through Deterministic Failure design: the agent halts and escalates at the schema mismatch rather than attempting an autonomous fix that propagates as valid data.
+- [Context Leakage](https://arcoventure.studio/lexicon/context-leakage) — Handoff Friction and Context Leakage produce similar downstream effects — incorrect data propagating silently — but Handoff Friction originates at integration boundaries while Context Leakage originates in accumulated task-level drift.
+- [Legacy Liability](https://arcoventure.studio/lexicon/legacy-liability) — Handoff Friction is most severe at legacy integration points: the schema mismatches that trigger it are typically inherited from incumbent systems that were not designed for agentic consumption.
+- [Logic Decay](https://arcoventure.studio/lexicon/logic-decay) — Both Handoff Friction and Logic Decay compound silently before producing visible failures; the difference is that Handoff Friction originates at integration points while Logic Decay originates in environmental data drift.
 
-## In the Log
+## Articles
 
 - [The Mechanics of Failure: Three Things That Break in Autonomous Systems](https://arcoventure.studio/blog/mechanics-of-failure)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/handoff-friction)
+- [Lexicon](https://arcoventure.studio/lexicon/handoff-friction) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/handoff-friction) — extended entry
+
+## Metadata
+
+first_used: 2026-03-23
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-23*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

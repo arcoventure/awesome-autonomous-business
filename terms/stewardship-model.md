@@ -1,6 +1,5 @@
 # Stewardship Model
 
-**Canonical definition (Arco Lexicon)**
 > The Arco operating model in which a single competent operator oversees an agentic stack, acting as architect and exception handler rather than executor.
 
 ## Extended Definition
@@ -13,23 +12,26 @@ Key performance target: Mean Time to Intervention (MTTI) greater than 72 hours. 
 
 ## Related Terms
 
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The Stewardship Model is the human architecture that makes the autonomous business operationally viable: it maintains human accountability and oversight without requiring human execution.
+- [MTTI (Mean Time to Intervention)](https://arcoventure.studio/lexicon/mtti) — MTTI is the primary performance target for the Stewardship Model: a Steward whose system runs more than 72 hours between required interventions is governing the system as intended.
+- [Workforce Arbitrage](https://arcoventure.studio/lexicon/workforce-arbitrage) — The Stewardship Model realises Workforce Arbitrage in practice: one Steward governing an agentic stack replaces many Process Workers, capturing the full human-to-compute cost differential.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Stewardship Model is the operating architecture through which Operational Arbitrage is captured sustainably: it combines near-zero marginal execution costs with maintained human oversight.
 
-## In the Log
+## Articles
 
 - [The Stewardship Model: The Human Role in an Autonomous Business](https://arcoventure.studio/blog/stewardship-model)
 - [The Difference Between an Automated Business and an Autonomous One](https://arcoventure.studio/blog/automated-vs-autonomous)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/stewardship-model)
+- [Lexicon](https://arcoventure.studio/lexicon/stewardship-model) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/stewardship-model) — extended entry
+
+## Metadata
+
+first_used: 2026-03-05
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-05*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

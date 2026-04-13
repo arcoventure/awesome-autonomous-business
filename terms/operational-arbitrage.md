@@ -1,6 +1,5 @@
 # Operational Arbitrage
 
-**Canonical definition (Arco Lexicon)**
 > The cost and output delta between a human-staffed operation and an equivalent agentic operation, widening over time as AI costs fall and human costs rise.
 
 ## Extended Definition
@@ -13,23 +12,26 @@ Critically, the arbitrage widens over time. LLM inference costs are falling 60�
 
 ## Related Terms
 
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The autonomous business is the architectural vehicle for capturing Operational Arbitrage: only a business engineered from first principles can fully eliminate the human cost base that defines it.
+- [Workforce Arbitrage](https://arcoventure.studio/lexicon/workforce-arbitrage) — Workforce Arbitrage is the role-level measurement of Operational Arbitrage: the cost delta per task or role that, aggregated across the revenue loop, constitutes the total arbitrage available.
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — The Task Tier framework determines where in the revenue loop Operational Arbitrage is capturable: maximum at T1, partial at T2, and near-zero at T3.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Tax is the overhead component of Operational Arbitrage: eliminating the human cost base also eliminates the coordination overhead that compounds on top of it.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model captures Operational Arbitrage while maintaining human oversight: the Steward's cost is a fraction of the workforce the agents replace, while the governance function remains intact.
 
-## In the Log
+## Articles
 
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/operational-arbitrage)
+- [Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/operational-arbitrage) — extended entry
+
+## Metadata
+
+first_used: 2026-03-15
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-15*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

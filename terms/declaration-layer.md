@@ -1,6 +1,5 @@
 # Declaration Layer
 
-**Canonical definition (Arco Lexicon)**
 > A structured manifest that tells an LLM or AI agent what a site's vocabulary means and where to find authoritative definitions — delivered before the agent reads any content on the site.
 
 ## Extended Definition
@@ -15,25 +14,27 @@ Arco treats the declaration layer as infrastructure, not content. The llms.txt f
 
 ## Related Terms
 
-- [Machine-Readable Interface (MRI)](./machine-readable-interface.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/machine-readable-interface)
-- [Arco Flywheel](./arco-flywheel.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/arco-flywheel)
-- [Deterministic Logging](./deterministic-logging.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/deterministic-logging)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
+- [Machine-Readable Interface (MRI)](https://arcoventure.studio/lexicon/machine-readable-interface) — The Declaration Layer handles the semantic layer of machine readability — vocabulary anchoring — while the Machine-Readable Interface handles the transactional layer of structured endpoints.
+- [Arco Flywheel](https://arcoventure.studio/lexicon/arco-flywheel) — The Declaration Layer's value compounds with each new Lexicon entry, producing the same flywheel dynamic at the semantic layer that the Agentic Core produces at the infrastructure layer.
+- [Deterministic Logging](https://arcoventure.studio/lexicon/deterministic-logging) — Both the Declaration Layer and Deterministic Logging address auditability: one anchors vocabulary for agents before they read content, the other records causation after agents execute decisions.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — A missing Declaration Layer generates a semantic Coordination Tax: agents misattribute terms, require clarification, and cannot transact autonomously without human disambiguation.
 
-## In the Log
+## Articles
 
 - [The Machine-Readable Business: Why Your Next Customer Will Be an Agent](https://arcoventure.studio/blog/machine-readable-business)
 - [The Agent-Ready Business: What WebMCP Reveals About the Companies Being Left Behind](https://arcoventure.studio/blog/agent-ready-business-webmcp)
 - [The Lexicon Was the Point](https://arcoventure.studio/blog/lexicon-as-declaration-layer)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/declaration-layer)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/declaration-layer)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/declaration-layer.md)
+- [Lexicon](https://arcoventure.studio/lexicon/declaration-layer) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/declaration-layer) — extended entry
+
+## Metadata
+
+first_used: 2026-04-06
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-04-06*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

@@ -1,6 +1,5 @@
 # Intervention Threshold
 
-**Canonical definition (Arco Lexicon)**
 > The architectural parameter that defines the conditions under which an agentic system must halt execution and escalate to a human Steward — set during system design, not discovered through operational failure.
 
 ## Extended Definition
@@ -13,27 +12,29 @@ At T1 — routine, scripted, high-volume tasks with binary outcomes and low risk
 
 ## Related Terms
 
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [Judgment Layer / Execution Layer](./judgment-layer-execution-layer.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/judgment-layer-execution-layer)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Deterministic Outcome](./deterministic-outcome.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/deterministic-outcome)
-- [Escalation Rate](./escalation-rate.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/escalation-rate)
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — The Intervention Threshold is calibrated by task tier: 1:100 at T1, 1:10 to 1:5 at T2, and mandatory human involvement at T3 based on the specific risk profile of the task type.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Intervention Threshold is the code-level implementation of the Stewardship Model's core principle: the Steward handles exceptions, not execution.
+- [Judgment Layer / Execution Layer](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — The Intervention Threshold is the explicit architectural boundary between the Execution Layer — tasks the agent handles autonomously — and the Judgment Layer — decisions the Steward owns.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Intervention Threshold determines how much Operational Arbitrage a system captures: a correctly calibrated threshold maximises autonomous execution without producing silent errors that require costly remediation.
+- [Deterministic Outcome](https://arcoventure.studio/lexicon/deterministic-outcome) — Tasks with Deterministic Outcomes can be assigned lower Intervention Thresholds because the system can self-evaluate success; tasks with non-deterministic outcomes require a higher human involvement threshold.
+- [Escalation Rate](https://arcoventure.studio/lexicon/escalation-rate) — The Escalation Rate is the operational measurement that confirms whether the Intervention Threshold was set correctly: a rate within the target range validates the threshold design.
 
-## In the Log
+## Articles
 
 - [The Stewardship Model: The Human Role in an Autonomous Business](https://arcoventure.studio/blog/stewardship-model)
 - [What We Mean When We Say Agentic](https://arcoventure.studio/blog/what-we-mean-agentic)
 - [What Makes a Market Certain Enough to Build Into](https://arcoventure.studio/blog/what-makes-a-market-certain-enough)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/intervention-threshold)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/intervention-threshold)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/intervention-threshold.md)
+- [Lexicon](https://arcoventure.studio/lexicon/intervention-threshold) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/intervention-threshold) — extended entry
+
+## Metadata
+
+first_used: 2026-04-07
+pillar: How We Think
 
 ---
-
-*First used: 2026-04-07*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

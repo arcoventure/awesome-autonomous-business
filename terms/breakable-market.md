@@ -1,6 +1,5 @@
 # Breakable Market
 
-**Canonical definition (Arco Lexicon)**
 > A market with a structurally high Human-to-Logic Ratio, no Systemic Resistance, and fragmented competition — the specific combination of conditions that makes autonomous reconstruction both feasible and defensible.
 
 ## Extended Definition
@@ -11,26 +10,28 @@ When all three conditions are present, the market is not being competed on the q
 
 ## Related Terms
 
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Systemic Resistance](./systemic-resistance.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/systemic-resistance)
-- [False Positive (Market)](./false-positive-market.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/false-positive-market)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Administrative Density](./administrative-density.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/administrative-density)
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — A structurally high Human-to-Logic Ratio is the first of the three conditions required for a market to qualify as Breakable.
+- [Systemic Resistance](https://arcoventure.studio/lexicon/systemic-resistance) — Systemic Resistance is the disqualifier that prevents a high Human-to-Logic market from being Breakable: if the human coordination is legally or structurally required, the market cannot be reconstructed.
+- [False Positive (Market)](https://arcoventure.studio/lexicon/false-positive-market) — A False Positive market looks like a Breakable Market by conventional metrics but fails Arco's structural filter because its activity signals required rather than accidental coordination.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Operational Arbitrage is the economic prize that becomes available once a Breakable Market is identified: the cost differential between autonomous and human-centric delivery at scale.
+- [Administrative Density](https://arcoventure.studio/lexicon/administrative-density) — High Administrative Density across all incumbents in a sector is the observable workforce signal that confirms a market's Breakable status.
 
-## In the Log
+## Articles
 
 - [The Human-to-Logic Ratio: The One Metric That Identifies Breakable Markets](https://arcoventure.studio/blog/the-human-to-logic-ratio)
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/breakable-market)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/breakable-market)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/breakable-market.md)
+- [Lexicon](https://arcoventure.studio/lexicon/breakable-market) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/breakable-market) — extended entry
+
+## Metadata
+
+first_used: 2026-03-31
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-31*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

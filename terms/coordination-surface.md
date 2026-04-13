@@ -1,6 +1,5 @@
 # Coordination Surface
 
-**Canonical definition (Arco Lexicon)**
 > The sum total of all human-to-human interactions required to deliver a product or service — every handoff, approval, status update, and manual intervention between the initial trigger and the completed transaction.
 
 ## Extended Definition
@@ -11,28 +10,30 @@ The Coordination Surface exists at every scale. At the task level, it is the ema
 
 ## Related Terms
 
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Breakable Market](./breakable-market.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/breakable-market)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Administrative Density](./administrative-density.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/administrative-density)
-- [Deterministic Loop](./deterministic-loop.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/deterministic-loop)
-- [Fragmented Competition](./fragmented-competition.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/fragmented-competition)
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Surface is the structural map of every point that generates the Coordination Tax: each human-to-human handoff on the map is a unit of tax.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Operational Arbitrage available to an autonomous competitor is proportional to the size of the Coordination Surface it replaces with deterministic system-to-system handoffs.
+- [Breakable Market](https://arcoventure.studio/lexicon/breakable-market) — A large, uniform Coordination Surface shared by all incumbents in a sector is a structural indicator that the market is Breakable.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — The Human-to-Logic Ratio is the financial measurement of the same condition the Coordination Surface maps structurally: the proportion of the delivery workflow requiring human involvement.
+- [Administrative Density](https://arcoventure.studio/lexicon/administrative-density) — Administrative Density is the workforce expression of the Coordination Surface: the headcount required to staff the human-to-human handoff points the Surface contains.
+- [Deterministic Loop](https://arcoventure.studio/lexicon/deterministic-loop) — A Deterministic Loop eliminates the Coordination Surface from the revenue loop by replacing human-to-human handoffs with encodable, system-to-system transitions.
+- [Fragmented Competition](https://arcoventure.studio/lexicon/fragmented-competition) — Fragmented Competition persists in markets where every incumbent carries the same large Coordination Surface and no player has yet rebuilt the workflow without it.
 
-## In the Log
+## Articles
 
 - [How to Choose a Market That Actually Works (Instead of Guessing)](https://arcoventure.studio/blog/how-to-choose-a-market)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 - [Legacy Liability: Why Incumbents Can't Adapt](https://arcoventure.studio/blog/legacy-liability)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-surface)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/coordination-surface)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/coordination-surface.md)
+- [Lexicon](https://arcoventure.studio/lexicon/coordination-surface) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/coordination-surface) — extended entry
+
+## Metadata
+
+first_used: 2026-04-03
+pillar: What We Observe
 
 ---
-
-*First used: 2026-04-03*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

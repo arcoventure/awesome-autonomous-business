@@ -1,6 +1,5 @@
 # Deterministic Outcome
 
-**Canonical definition (Arco Lexicon)**
 > An outcome whose success or failure can be evaluated by logic rather than preference — the minimum standard a market must meet for its Revenue Loop to be operated autonomously without human judgment at the point of evaluation.
 
 ## Extended Definition
@@ -11,23 +10,25 @@ Markets where the primary evaluation is non-deterministic — where the standard
 
 ## Related Terms
 
-- [Revenue Loop](./revenue-loop.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/revenue-loop)
-- [Systemic Resistance](./systemic-resistance.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/systemic-resistance)
-- [Architectural Certainty](./architectural-certainty.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
+- [Revenue Loop](https://arcoventure.studio/lexicon/revenue-loop) — A Deterministic Outcome is the evaluation standard that the Revenue Loop must meet at its completion step for the loop to be operated autonomously.
+- [Systemic Resistance](https://arcoventure.studio/lexicon/systemic-resistance) — Non-deterministic evaluation is one of the four conditions that produce Systemic Resistance: markets where success requires subjective human judgment cannot be autonomously reconstructed.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — A Deterministic Outcome at every evaluation step is a prerequisite for Architectural Certainty: the system cannot self-govern if it cannot autonomously assess whether each unit of work succeeded.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Operational Arbitrage is only available in markets with Deterministic Outcomes: the cost advantage of autonomous execution cannot be realised if a human must evaluate the result of every transaction.
 
-## In the Log
+## Articles
 
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-outcome)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-outcome)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/deterministic-outcome.md)
+- [Lexicon](https://arcoventure.studio/lexicon/deterministic-outcome) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-outcome) — extended entry
+
+## Metadata
+
+first_used: 2026-03-29
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-29*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

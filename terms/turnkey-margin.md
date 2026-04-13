@@ -1,6 +1,5 @@
 # Turnkey Margin
 
-**Canonical definition (Arco Lexicon)**
 > An autonomous business structured for immediate acquirer deployment — generating predictable cash flow with a known, low-overhead profile, no Key-Man Risk, and no cultural integration requirement at close.
 
 ## Extended Definition
@@ -9,23 +8,26 @@ Turnkey Margin is what an acquirer receives when they purchase an Arco business 
 
 ## Related Terms
 
-- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Revenue to Headcount Advantage](./revenue-to-headcount-advantage.md) — [Revenue to Headcount Advantage on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
+- [Key-Man Risk](https://arcoventure.studio/lexicon/key-man-risk) — Turnkey Margin is only achievable when Key-Man Risk has been eliminated: an asset that requires specific founders or engineers to remain cannot be transferred without a corresponding risk discount.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Architectural Certainty is a prerequisite for Turnkey Margin: a business that requires daily human intervention cannot be handed to an acquirer as a self-running asset.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model contributes to Turnkey Margin by ensuring the system is governable by any competent operator, not only by the founding team who built it.
+- [Revenue to Headcount Advantage](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage) — The Revenue to Headcount Advantage is the financial expression of Turnkey Margin: the acquirer is buying the 10:1 ratio as a durable structural property of the business, not as a consequence of the current team's efficiency.
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Deterministic Failure design is a component of Turnkey Margin: an acquirer who inherits a system that fails safely and recovers with full context has taken on an asset with known, bounded risk rather than unknown black box exposure.
 
-## In the Log
+## Articles
 
 - [Engineering for Liquidity: Why Autonomous Companies Are the Ultimate Acquisition Targets](https://arcoventure.studio/blog/engineering-for-liquidity)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/turnkey-margin)
+- [Lexicon](https://arcoventure.studio/lexicon/turnkey-margin) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/turnkey-margin) — extended entry
+
+## Metadata
+
+first_used: 2026-03-21
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-21*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

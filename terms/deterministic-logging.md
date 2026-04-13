@@ -1,6 +1,5 @@
 # Deterministic Logging
 
-**Canonical definition (Arco Lexicon)**
 > The architectural practice of recording not just that an agentic decision occurred, but why it occurred — capturing the specific input data, the logic gate triggered, the confidence score, and the output produced, so that the business's operations can be replayed and verified by any auditor at any point.
 
 ## Extended Definition
@@ -10,25 +9,28 @@ In a human-run business, causation is recoverable through memory, testimony, and
 
 ## Related Terms
 
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Liquidity Lock](./liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
-- [Proof of Action](./proof-of-action.md) — [Proof of Action on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Deterministic Logging is what makes Deterministic Failure recoverable: the logged execution context — logic gate, input data, confidence score — gives the Steward everything needed to update the architecture.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Deterministic Logging is a prerequisite for Architectural Certainty: a system that cannot explain why it made each decision cannot be trusted to run autonomously at scale.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — Deterministic Logging makes the Stewardship Model viable at scale: the Steward can audit, diagnose, and correct the system without reconstructing events from memory or interviews.
+- [Key-Man Risk](https://arcoventure.studio/lexicon/key-man-risk) — Deterministic Logging eliminates the informational component of Key-Man Risk: the system's operational logic is fully documented in the logs, so no individual holds exclusive knowledge of how it works.
+- [Liquidity Lock](https://arcoventure.studio/lexicon/liquidity-lock) — Deterministic Logging is the technical foundation of Liquidity Lock: an acquirer can verify governance compliance and replay operations from the logs without relying on management presentations.
+- [Proof of Action](https://arcoventure.studio/lexicon/proof-of-action) — Proof of Action is the structured protocol that makes Deterministic Logging useful to an acquirer: the logs are organised so an external auditor can navigate and replay them in sequence.
 
-## In the Log
+## Articles
 
 - [Auditable Autonomy: Solving the Black Box Problem](https://arcoventure.studio/blog/auditable-autonomy)
 - [The Mechanics of Failure: Three Things That Break in Autonomous Systems](https://arcoventure.studio/blog/mechanics-of-failure)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-logging)
+- [Lexicon](https://arcoventure.studio/lexicon/deterministic-logging) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-logging) — extended entry
+
+## Metadata
+
+first_used: 2026-03-25
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-25*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

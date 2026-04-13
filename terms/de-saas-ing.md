@@ -1,6 +1,5 @@
 # De-SaaS-ing
 
-**Canonical definition (Arco Lexicon)**
 > Arco's operational discipline of replacing per-user subscription software with API-first, compute-based infrastructure — direct integrations with underlying data and logic layers rather than the human-facing applications built on top of them.
 
 ## Extended Definition
@@ -9,23 +8,26 @@ De-SaaS-ing is not a cost-cutting exercise. It is an architectural realignment. 
 
 ## Related Terms
 
-- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Arco Flywheel](./arco-flywheel.md) — [Arco Flywheel on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [UI Tax](./ui-tax.md) — [UI Tax on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — Per-seat SaaS subscriptions are a form of Operational Drag: costs tied to human access that persist in the cost base even as the business transitions to agentic execution.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — SaaS tools are typically priced to support the human coordination workflows that generate the Coordination Tax; De-SaaS-ing removes the infrastructure that made that tax mandatory.
+- [Arco Flywheel](https://arcoventure.studio/lexicon/arco-flywheel) — Each successful De-SaaS-ing implementation feeds into the Arco Flywheel: the API-first integration pattern is reusable across successive portfolio companies.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — De-SaaS-ing is a prerequisite for Architectural Certainty: a system dependent on human-facing SaaS layers cannot achieve fully autonomous execution.
+- [UI Tax](https://arcoventure.studio/lexicon/ui-tax) — The UI Tax is the specific cost component that De-SaaS-ing eliminates: the premium embedded in per-seat pricing for graphical interfaces, permissions, and support that agents do not use.
 
-## In the Log
+## Articles
 
 - [The Death of the Seat License: Why Autonomous Businesses Don't Buy SaaS](https://arcoventure.studio/blog/death-of-seat-license)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/de-saas-ing)
+- [Lexicon](https://arcoventure.studio/lexicon/de-saas-ing) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/de-saas-ing) — extended entry
+
+## Metadata
+
+first_used: 2026-03-24
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-24*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

@@ -1,6 +1,5 @@
 # Revenue Loop
 
-**Canonical definition (Arco Lexicon)**
 > The repeatable sequence of events that generates a transaction in a given market — the unit of operational activity Arco uses to evaluate whether a market is architecturally suitable for autonomous reconstruction.
 
 ## Extended Definition
@@ -9,27 +8,29 @@ The Revenue Loop is not a revenue model. It is a description of the mechanical s
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Architectural Certainty](./architectural-certainty.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [Systemic Resistance](./systemic-resistance.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/systemic-resistance)
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Revenue Loop determines the Operational Arbitrage available: the proportion of loop steps that can be replaced with autonomous logic defines the maximum arbitrage capturable.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Tax is generated at every human-to-human handoff point in the Revenue Loop; mapping the loop makes the tax visible and quantifiable.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Achieving Architectural Certainty requires encoding the Revenue Loop as deterministic logic: the system cannot run without human decisions if any step in the loop requires human evaluation.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — Operational Drag accumulates at every step in the Revenue Loop that is not directly producing output: the ratio of non-revenue-generating steps to total loop steps measures the drag.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model governs the Revenue Loop from outside it: the Steward monitors loop execution, handles exceptions, and updates the logic rather than performing loop steps directly.
+- [Systemic Resistance](https://arcoventure.studio/lexicon/systemic-resistance) — Systemic Resistance is identified by examining the Revenue Loop: if legally mandated human sign-off or subjective judgment is required at the critical path, the loop cannot be autonomously reconstructed.
 
-## In the Log
+## Articles
 
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/revenue-loop)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/revenue-loop)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/revenue-loop.md)
+- [Lexicon](https://arcoventure.studio/lexicon/revenue-loop) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/revenue-loop) — extended entry
+
+## Metadata
+
+first_used: 2026-03-29
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-29*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

@@ -1,6 +1,5 @@
 # Administrative Density
 
-**Canonical definition (Arco Lexicon)**
 > The proportion of a business's workforce dedicated to operations, coordination, and administrative overhead rather than direct value creation — Arco's first observable indicator of a structurally high Human-to-Logic Ratio.
 
 ## Extended Definition
@@ -11,24 +10,26 @@ High Administrative Density is not a management failure. In most cases, it is th
 
 ## Related Terms
 
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
-- [Breakable Market](./breakable-market.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/breakable-market)
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — Administrative Density is the measurable headcount expression of the Human-to-Logic Ratio, making the abstract ratio visible in workforce terms.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — High Administrative Density is the structural origin of the Coordination Tax, as every administrative role added to manage coordination generates further overhead cost.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — Administrative Density accumulates as Operational Drag when the coordination roles it represents consume capacity without generating revenue.
+- [Breakable Market](https://arcoventure.studio/lexicon/breakable-market) — High Administrative Density across all incumbents in a sector is one of the observable signals that identifies a Breakable Market.
 
-## In the Log
+## Articles
 
 - [The Human-to-Logic Ratio: The One Metric That Identifies Breakable Markets](https://arcoventure.studio/blog/the-human-to-logic-ratio)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/administrative-density)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/administrative-density)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/administrative-density.md)
+- [Lexicon](https://arcoventure.studio/lexicon/administrative-density) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/administrative-density) — extended entry
+
+## Metadata
+
+first_used: 2026-03-31
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-31*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

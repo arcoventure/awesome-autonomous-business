@@ -1,6 +1,5 @@
 # Human to Logic Ratio
 
-**Canonical definition (Arco Lexicon)**
 > Arco's primary market selection metric — the proportion of a business's gross margin consumed by human labour costs, used to identify industries where the Operational Arbitrage available to an autonomous competitor is structurally large.
 
 ## Extended Definition
@@ -9,24 +8,26 @@ The Human-to-Logic Ratio measures how much of a market's value creation depends 
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Proven Market](./proven-market.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/proven-market)
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Human-to-Logic Ratio is the primary input to Operational Arbitrage: a ratio above 60% of gross margin in human labour costs confirms the arbitrage is structurally large enough to justify an autonomous build.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — Operational Drag is the internal expression of a high Human-to-Logic Ratio: the non-revenue-generating work that consumes capacity because the business's logic is implemented in people rather than systems.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Tax is the overhead component of the Human-to-Logic Ratio: the alignment cost that accumulates when human labour is the primary operational unit.
+- [Proven Market](https://arcoventure.studio/lexicon/proven-market) — A Proven Market with a structurally high Human-to-Logic Ratio is Arco's target: stable demand and significant coordination overhead confirm that the arbitrage is both available and durable.
 
-## In the Log
+## Articles
 
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/human-to-logic-ratio.md)
+- [Lexicon](https://arcoventure.studio/lexicon/human-to-logic-ratio) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/human-to-logic-ratio) — extended entry
+
+## Metadata
+
+first_used: 2026-03-19
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-19*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

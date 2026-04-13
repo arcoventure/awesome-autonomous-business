@@ -1,6 +1,5 @@
 # Arco Flywheel
 
-**Canonical definition (Arco Lexicon)**
 > The compounding mechanism by which each autonomous business Arco builds generates operational proof, resolved failure patterns, and reusable agentic infrastructure — reducing the cost and time of every subsequent launch while increasing the architectural maturity of every subsequent company.
 
 ## Extended Definition
@@ -9,24 +8,27 @@ The Arco Flywheel is not a metaphor. It is a specific, measurable consequence of
 
 ## Related Terms
 
-- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Continuous Regression Loop](./continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
+- [Agentic Core](https://arcoventure.studio/lexicon/agentic-core) — The Agentic Core is the physical asset that the Arco Flywheel produces: each build adds resolved logic and validated architecture to the shared library.
+- [Infrastructure Drag](https://arcoventure.studio/lexicon/infrastructure-drag) — The Arco Flywheel directly reduces Infrastructure Drag for each successive build by replacing original foundational work with reusable components.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — The Flywheel accelerates the path to Architectural Certainty because each new build inherits validated patterns from every prior deployment.
+- [Turnkey Margin](https://arcoventure.studio/lexicon/turnkey-margin) — The Flywheel compounds Turnkey Margin at the portfolio level: each build is more acquirable than the last because the underlying architecture is more mature and proven.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — Stewardship protocols refined across multiple businesses feed back into the Flywheel, calibrating exception handling thresholds for future deployments.
+- [Continuous Regression Loop](https://arcoventure.studio/lexicon/continuous-regression-loop) — Failure data surfaced by Continuous Regression Loops across the portfolio feeds directly into the Flywheel, converting operational errors into reusable detection thresholds.
 
-## In the Log
+## Articles
 
 - [The Arco Flywheel: How Operational Intelligence Compounds](https://arcoventure.studio/blog/arco-flywheel)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/arco-flywheel)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/arco-flywheel)
+- [Lexicon](https://arcoventure.studio/lexicon/arco-flywheel) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/arco-flywheel) — extended entry
+
+## Metadata
+
+first_used: 2026-03-20
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-20*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

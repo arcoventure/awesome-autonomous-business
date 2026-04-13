@@ -1,6 +1,5 @@
 # Headcount Decoupling
 
-**Canonical definition (Arco Lexicon)**
 > The architectural state in which a business increases its operational output and revenue without a proportional increase in human staff — achieved by shifting the critical path of execution from people to autonomous systems.
 
 ## Extended Definition
@@ -13,32 +12,34 @@ The distinction between Headcount Decoupling and the Coordination Trap is the de
 
 ## Related Terms
 
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Labor-to-Compute Substitution](./labor-to-compute-substitution.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/labor-to-compute-substitution)
-- [Revenue to Headcount Advantage](./revenue-to-headcount-advantage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Coordination Surface](./coordination-surface.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-surface)
-- [Intervention Threshold](./intervention-threshold.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/intervention-threshold)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [Judgment Layer / Execution Layer](./judgment-layer-execution-layer.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/judgment-layer-execution-layer)
-- [Legacy Liability](./legacy-liability.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/legacy-liability)
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — Headcount Decoupling reduces the Human-to-Logic Ratio to its minimum: the only human involvement is the Steward managing exceptions, not operators executing the core workflow.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Headcount Decoupling is the mechanism through which Operational Arbitrage is realised: removing human labour from the critical path converts the human-to-compute cost differential into structural margin.
+- [Labor-to-Compute Substitution](https://arcoventure.studio/lexicon/labor-to-compute-substitution) — Labor-to-Compute Substitution is the specific economic transformation that produces Headcount Decoupling: replacing variable human labour costs with near-zero marginal compute costs.
+- [Revenue to Headcount Advantage](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage) — The Revenue to Headcount Advantage is the performance benchmark that confirms Headcount Decoupling: a 10:1 ratio demonstrates that revenue growth has been structurally separated from headcount growth.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — Headcount Decoupling eliminates the Coordination Tax at the structural level: when the Execution Layer is owned by autonomous logic, there are no human-to-human alignment requirements to generate it.
+- [Coordination Surface](https://arcoventure.studio/lexicon/coordination-surface) — Headcount Decoupling collapses the Coordination Surface: the human-to-human handoffs that map it are replaced by system-to-system transitions governed by deterministic logic.
+- [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — The Intervention Threshold defines the boundary at which Headcount Decoupling ends: tasks that exceed the threshold require human judgment, but the threshold design determines how few of them do.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model is the human architecture that Headcount Decoupling enables: a single Steward governs the system rather than a team of operators executing within it.
+- [Judgment Layer / Execution Layer](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — Headcount Decoupling requires separating the Execution Layer from the Judgment Layer: the former is owned by autonomous logic, the latter by the Steward.
+- [Legacy Liability](https://arcoventure.studio/lexicon/legacy-liability) — Legacy Liability is the structural condition that prevents incumbents from achieving Headcount Decoupling: the coordination architecture is too embedded to remove without dismantling the organisation.
 
-## In the Log
+## Articles
 
 - [Why AI Businesses Scale Without Hiring (And Why Most Companies Can't)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
 - [Operational Arbitrage: Where the Money in AI Businesses Actually Comes From](https://arcoventure.studio/blog/operational-arbitrage-ai-business)
 - [Why Most AI Transformations Fail (The Coordination Tax Explained)](https://arcoventure.studio/blog/why-ai-transformations-fail)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/headcount-decoupling)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/headcount-decoupling)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/headcount-decoupling.md)
+- [Lexicon](https://arcoventure.studio/lexicon/headcount-decoupling) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/headcount-decoupling) — extended entry
+
+## Metadata
+
+first_used: 2026-04-09
+pillar: How We Think
 
 ---
-
-*First used: 2026-04-09*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

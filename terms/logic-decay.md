@@ -1,6 +1,5 @@
 # Logic Decay
 
-**Canonical definition (Arco Lexicon)**
 > The failure mode in which agentic logic produces increasingly incorrect outputs not because the code is defective, but because the data environment it was calibrated for has shifted — a miscalibration that compounds silently until it produces a visible error.
 
 ## Extended Definition
@@ -9,24 +8,27 @@ Logic Decay is the most insidious of the three primary autonomous system failure
 
 ## Related Terms
 
-- [Continuous Regression Loop](./continuous-regression-loop.md) — [Continuous Regression Loop on Arco Lexicon](https://arcoventure.studio/lexicon/continuous-regression-loop)
-- [Ghost Trial](./ghost-trial.md) — [Ghost Trial on Arco Lexicon](https://arcoventure.studio/lexicon/ghost-trial)
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Context Leakage](./context-leakage.md) — [Context Leakage on Arco Lexicon](https://arcoventure.studio/lexicon/context-leakage)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Handoff Friction](./handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
+- [Continuous Regression Loop](https://arcoventure.studio/lexicon/continuous-regression-loop) — The Continuous Regression Loop is the architectural response to Logic Decay: it detects environmental miscalibration through Ghost Trials before the compounding error reaches the revenue loop.
+- [Ghost Trial](https://arcoventure.studio/lexicon/ghost-trial) — The Ghost Trial is the detection mechanism for Logic Decay: simulated production data through live logic reveals when the calibration no longer matches the current data environment.
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Logic Decay is converted into a Deterministic Failure event when the Continuous Regression Loop detects it: the deviation is flagged, logged, and escalated before it reaches live transactions.
+- [Context Leakage](https://arcoventure.studio/lexicon/context-leakage) — Both Logic Decay and Context Leakage produce silent, compounding errors; the distinction is that Logic Decay originates in environmental data drift while Context Leakage originates in task-level intent drift within a single workflow.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Protecting against Logic Decay through Continuous Regression Loops is a design requirement for Architectural Certainty: a system without environmental drift detection cannot maintain reliable autonomous operation over time.
+- [Handoff Friction](https://arcoventure.studio/lexicon/handoff-friction) — Both Handoff Friction and Logic Decay produce outputs that appear valid but are incorrect; Handoff Friction occurs at integration boundaries while Logic Decay occurs in the core business logic calibration.
 
-## In the Log
+## Articles
 
 - [The Mechanics of Failure: Three Things That Break in Autonomous Systems](https://arcoventure.studio/blog/mechanics-of-failure)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/logic-decay)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/logic-decay)
+- [Lexicon](https://arcoventure.studio/lexicon/logic-decay) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/logic-decay) — extended entry
+
+## Metadata
+
+first_used: 2026-03-23
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-23*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

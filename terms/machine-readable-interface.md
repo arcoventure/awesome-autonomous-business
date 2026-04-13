@@ -1,6 +1,5 @@
 # Machine-Readable Interface (MRI)
 
-**Canonical definition (Arco Lexicon)**
 > A structured, API-first interaction layer that allows external autonomous agents to discover, evaluate, and transact with a business's services without a human intermediary — built specifically for agent inference, not developer integration.
 
 ## Extended Definition
@@ -10,23 +9,26 @@ An MRI exposes pricing, availability, service specification, and transaction ini
 
 ## Related Terms
 
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Handoff Friction](./handoff-friction.md) — [Handoff Friction on Arco Lexicon](https://arcoventure.studio/lexicon/handoff-friction)
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — An MRI without proper Deterministic Failure handling at integration points will produce hallucinated fixes when schema mismatches occur, propagating incorrect data through the agent's workflow.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — A well-structured MRI is a prerequisite for Architectural Certainty at the market interface layer: a business that cannot reliably serve agent queries cannot achieve autonomous revenue generation.
+- [Turnkey Margin](https://arcoventure.studio/lexicon/turnkey-margin) — An MRI extends the Turnkey Margin concept to the revenue side: a business with a well-built MRI can be discovered and transacted by agent buyers without human sales involvement.
+- [Handoff Friction](https://arcoventure.studio/lexicon/handoff-friction) — Handoff Friction is the primary risk in MRI implementation: an agent encountering an unexpected schema at an MRI endpoint will attempt to resolve the mismatch autonomously, producing hallucinated data.
 
-## In the Log
+## Articles
 
 - [Engineering for Liquidity: Why Autonomous Companies Are the Ultimate Acquisition Targets](https://arcoventure.studio/blog/engineering-for-liquidity)
 - [The Mechanics of Failure: Three Things That Break in Autonomous Systems](https://arcoventure.studio/blog/mechanics-of-failure)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/machine-readable-interface)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/machine-readable-interface)
+- [Lexicon](https://arcoventure.studio/lexicon/machine-readable-interface) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/machine-readable-interface) — extended entry
+
+## Metadata
+
+first_used: 2026-03-23
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-23*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

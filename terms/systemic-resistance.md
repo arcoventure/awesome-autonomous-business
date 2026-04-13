@@ -1,6 +1,5 @@
 # Systemic Resistance
 
-**Canonical definition (Arco Lexicon)**
 > The structural state of a market where legal, social, or creative requirements mandate human involvement, making autonomous reconstruction either legally prohibited or economically incoherent.
 
 ## Extended Definition
@@ -11,22 +10,24 @@ The diagnostic question is: if the human were removed from the critical path, wo
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Operational Arbitrage and Systemic Resistance are mutually exclusive: a market with required human coordination cannot offer the cost differential that Operational Arbitrage depends on.
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — Systemic Resistance is concentrated at T3: the regulatory, relational, and high-judgment tasks that mandate human involvement are exactly those where agentic deployment does not apply.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — A market can have a high Coordination Tax and still exhibit Systemic Resistance: the distinguishing question is whether the human coordination is legally or socially required, not merely architectural.
 
-## In the Log
+## Articles
 
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/systemic-resistance)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/systemic-resistance)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/systemic-resistance.md)
+- [Lexicon](https://arcoventure.studio/lexicon/systemic-resistance) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/systemic-resistance) — extended entry
+
+## Metadata
+
+first_used: 2026-03-28
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-28*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

@@ -1,6 +1,5 @@
 # Key-Man Risk
 
-**Canonical definition (Arco Lexicon)**
 > The structural dependence of a business's value on the continued presence of specific individuals — typically founders, senior engineers, or relationship holders — whose departure would materially impair the business's ability to operate or generate revenue.
 
 ## Extended Definition
@@ -9,23 +8,26 @@ Key-Man Risk is not a management failure. It is an architectural one. In a human
 
 ## Related Terms
 
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model reduces Key-Man Risk architecturally: the Steward governs a documented system rather than holding undocumented operational knowledge in their head.
+- [Agentic Core](https://arcoventure.studio/lexicon/agentic-core) — The Agentic Core externalises operational knowledge from individuals into reusable infrastructure, eliminating the primary mechanism through which Key-Man Risk is created.
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Deterministic Failure design reduces Key-Man Risk by ensuring the system's failure modes are documented and recoverable by any competent Steward, not only by the engineer who built it.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — A system that has achieved Architectural Certainty has eliminated operational Key-Man Risk: the logic runs independently of any individual's continued involvement.
+- [Turnkey Margin](https://arcoventure.studio/lexicon/turnkey-margin) — A Turnkey Margin asset is one where Key-Man Risk has been eliminated: the acquirer takes ownership of a self-running system with documented logic, not a dependency on the founding team.
 
-## In the Log
+## Articles
 
 - [Engineering for Liquidity: Why Autonomous Companies Are the Ultimate Acquisition Targets](https://arcoventure.studio/blog/engineering-for-liquidity)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/key-man-risk)
+- [Lexicon](https://arcoventure.studio/lexicon/key-man-risk) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/key-man-risk) — extended entry
+
+## Metadata
+
+first_used: 2026-03-21
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-21*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

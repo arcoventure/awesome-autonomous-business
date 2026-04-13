@@ -1,6 +1,5 @@
 # Automated Business
 
-**Canonical definition (Arco Lexicon)**
 > A company that uses technology to execute existing human workflows more efficiently — distinguished from an autonomous business by its continued dependence on human decision-making at the centre of its operations.
 
 ## Extended Definition
@@ -9,21 +8,24 @@ An automated business is not a poorly run business. It is a business that has ap
 
 ## Related Terms
 
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Coordination Tax](./coordination-tax.md) — [Coordination Tax on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — An automated business cannot achieve Architectural Certainty because its workflows were designed for human execution and require human decision-making at the centre.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Tax persists in an automated business because automation speeds tasks but does not remove the human-to-human alignment overhead between them.
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The autonomous business is the architectural alternative to the automated business: where automation optimises a human-centric structure, autonomy replaces the structure itself.
 
-## In the Log
+## Articles
 
 - [The Difference Between an Automated Business and an Autonomous One](https://arcoventure.studio/blog/automated-vs-autonomous)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/automated-business)
+- [Lexicon](https://arcoventure.studio/lexicon/automated-business) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/automated-business) — extended entry
+
+## Metadata
+
+first_used: 2026-03-17
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-17*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

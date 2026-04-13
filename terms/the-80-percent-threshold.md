@@ -1,6 +1,5 @@
 # The 80 Percent Threshold
 
-**Canonical definition (Arco Lexicon)**
 > Arco's operational benchmark for agentic status: a business qualifies as truly agentic only when more than 80% of its cross-departmental handoffs execute without human intervention.
 
 ## Extended Definition
@@ -9,22 +8,25 @@ The 80% Threshold is the line between an agent-assisted business and an agentic 
 
 ## Related Terms
 
-- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Agentic Core](./agentic-core.md) — [Agentic Core on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
+- [MTTI (Mean Time to Intervention)](https://arcoventure.studio/lexicon/mtti) — The 80 Percent Threshold and MTTI measure the same architectural condition from different angles: one measures autonomous handoff volume, the other measures autonomous operation time; both must be met for genuine agentic status.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — Crossing the 80 Percent Threshold is the structural precondition for the Stewardship Model: below the threshold, the human role remains operational rather than supervisory.
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The 80 Percent Threshold is the measurable line that separates an agent-assisted business from a genuinely autonomous one: it confirms that the workflow is running on logic rather than human execution.
+- [Agentic Core](https://arcoventure.studio/lexicon/agentic-core) — The Agentic Core is designed to bring each new Arco build above the 80 Percent Threshold faster by providing validated workflow logic that does not require original calibration.
 
-## In the Log
+## Articles
 
 - [What We Mean When We Say Agentic](https://arcoventure.studio/blog/what-we-mean-agentic)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/the-80-percent-threshold)
+- [Lexicon](https://arcoventure.studio/lexicon/the-80-percent-threshold) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/the-80-percent-threshold) — extended entry
+
+## Metadata
+
+first_used: 2026-03-19
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-19*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

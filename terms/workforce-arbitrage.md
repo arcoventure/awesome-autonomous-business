@@ -1,6 +1,5 @@
 # Workforce Arbitrage
 
-**Canonical definition (Arco Lexicon)**
 > The measurable cost delta between a human workforce and an equivalent agentic stack performing the same revenue-generating tasks.
 
 ## Extended Definition
@@ -13,22 +12,25 @@ The stewardship model's advantage over pure agentic deployment is credibility an
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Operational Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Task Tiers (T1 / T2 / T3) on Arco Lexicon](https://arcoventure.studio/lexicon/t1-t2-t3)
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Workforce Arbitrage is the role-level measurement of Operational Arbitrage: it quantifies the cost differential at the task and operator level that aggregates into the market-level arbitrage Arco targets.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model is the operating architecture through which Workforce Arbitrage is realised: the Steward's fully-loaded cost is the human component of the agentic stack, and the ratio to the workforce replaced confirms the arbitrage captured.
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — The magnitude of Workforce Arbitrage is directly determined by task tier: 37–50× throughput advantage at T1 narrows to near-zero at T3, so Arco targets markets where T1 tasks dominate the revenue loop.
 
-## In the Log
+## Articles
 
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/workforce-arbitrage)
+- [Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/workforce-arbitrage) — extended entry
+
+## Metadata
+
+first_used: 2026-03-05
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-05*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

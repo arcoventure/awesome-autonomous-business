@@ -1,6 +1,5 @@
 # Coordination Tax
 
-**Canonical definition (Arco Lexicon)**
 > The overhead cost of human-to-human alignment — the meetings, approvals, status updates, and manual handoffs required to keep a traditionally structured business functioning.
 
 ## Extended Definition
@@ -9,21 +8,24 @@ The Coordination Tax is not a management failure. It is a structural consequence
 
 ## Related Terms
 
-- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Workforce Arbitrage](./workforce-arbitrage.md) — [Workforce Arbitrage on Arco Lexicon](https://arcoventure.studio/lexicon/workforce-arbitrage)
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — The Coordination Tax is the primary driver of Operational Drag: the non-revenue-generating work that consumes capacity without producing output.
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The autonomous business eliminates the Coordination Tax by replacing human-to-human alignment with system-to-system handoffs governed by deterministic logic.
+- [Workforce Arbitrage](https://arcoventure.studio/lexicon/workforce-arbitrage) — Workforce Arbitrage captures the financial value of eliminating the Coordination Tax: the cost delta between a human team that generates it and an agentic stack that does not.
 
-## In the Log
+## Articles
 
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-tax)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/coordination-tax)
+- [Lexicon](https://arcoventure.studio/lexicon/coordination-tax) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/coordination-tax) — extended entry
+
+## Metadata
+
+first_used: 2026-03-17
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-17*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

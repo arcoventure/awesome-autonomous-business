@@ -1,6 +1,5 @@
 # False Positive (Market)
 
-**Canonical definition (Arco Lexicon)**
 > A market that appears attractive by conventional metrics — large TAM, high activity, significant incumbent revenue — but fails Arco's structural filter because its activity signals manual dependency rather than addressable inefficiency.
 
 ## Extended Definition
@@ -10,26 +9,28 @@ The failure mode is specific. High activity in a market is typically read as a s
 
 ## Related Terms
 
-- [Systemic Resistance](./systemic-resistance.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/systemic-resistance)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Revenue Loop](./revenue-loop.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/revenue-loop)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Legacy Liability](./legacy-liability.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/legacy-liability)
+- [Systemic Resistance](https://arcoventure.studio/lexicon/systemic-resistance) — A False Positive market is one where the high human activity that makes it look Breakable is in fact Systemic Resistance in disguise: the coordination is required, not accidental.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — A high Human-to-Logic Ratio that reflects relationship-driven or legally mandated human involvement is the diagnostic signal that distinguishes a False Positive from a genuinely Breakable Market.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — A False Positive market appears to offer Operational Arbitrage but does not: the human coordination cannot be replaced without destroying the value the customer is paying for.
+- [Revenue Loop](https://arcoventure.studio/lexicon/revenue-loop) — Analysing the Revenue Loop is the method by which a False Positive is identified: high-variance, judgment-dependent steps at the critical path reveal that the loop cannot be autonomously reconstructed.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Tax in a False Positive market is not eliminable: it is the cost of delivering the required human relationship or judgment that defines the product.
+- [Legacy Liability](https://arcoventure.studio/lexicon/legacy-liability) — Legacy Liability in incumbents can make a False Positive market look structurally identical to a Breakable Market; the diagnostic distinction is whether the inefficiency is architectural or mandated.
 
-## In the Log
+## Articles
 
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/false-positive-market)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/false-positive-market)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/false-positive-market.md)
+- [Lexicon](https://arcoventure.studio/lexicon/false-positive-market) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/false-positive-market) — extended entry
+
+## Metadata
+
+first_used: 2026-03-29
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-29*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

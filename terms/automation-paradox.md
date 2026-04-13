@@ -1,6 +1,5 @@
 # Automation Paradox
 
-**Canonical definition (Arco Lexicon)**
 > The failure mode in which AI-driven task acceleration increases the relative cost of human coordination — because the approval and alignment overhead that governed the original task remains unchanged while the task itself becomes near-instantaneous.
 
 ## Extended Definition
@@ -13,29 +12,31 @@ The Automation Paradox compounds the Coordination Trap. Where the Coordination T
 
 ## Related Terms
 
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Coordination Trap](./coordination-trap.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-trap)
-- [Coordination Surface](./coordination-surface.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-surface)
-- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
-- [Headcount Decoupling](./headcount-decoupling.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/headcount-decoupling)
-- [Automated Business](./automated-business.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/automated-business)
-- [Autonomous Business](./autonomous-business.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/autonomous-business)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Automation Paradox makes the Coordination Tax more visible by concentrating its full cost at the handoff points that task acceleration exposes.
+- [Coordination Trap](https://arcoventure.studio/lexicon/coordination-trap) — The Automation Paradox and Coordination Trap compound each other: task acceleration makes the tax visible while the Coordination Trap explains why speeding tasks cannot eliminate it.
+- [Coordination Surface](https://arcoventure.studio/lexicon/coordination-surface) — The Automation Paradox reveals the Coordination Surface by making the human-to-human handoff points the dominant proportion of total process time.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — The Automation Paradox concentrates Operational Drag at approval and alignment steps that acceleration cannot remove.
+- [Headcount Decoupling](https://arcoventure.studio/lexicon/headcount-decoupling) — Headcount Decoupling resolves the Automation Paradox by removing coordination dependencies from the workflow architecture, not just accelerating the tasks between them.
+- [Automated Business](https://arcoventure.studio/lexicon/automated-business) — An automated business is structurally prone to the Automation Paradox because it accelerates tasks without removing the human coordination layer governing them.
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — An autonomous business avoids the Automation Paradox by designing out coordination dependencies from the workflow, not merely speeding up the work between them.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — The Automation Paradox is most severe in markets with a high Human-to-Logic Ratio, where coordination overhead represents the majority of gross margin.
 
-## In the Log
+## Articles
 
 - [Why Most AI Transformations Fail (The Coordination Tax Explained)](https://arcoventure.studio/blog/why-ai-transformations-fail)
 - [Why AI Businesses Scale Without Hiring (And Why Most Companies Can't)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/automation-paradox)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/automation-paradox)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/automation-paradox.md)
+- [Lexicon](https://arcoventure.studio/lexicon/automation-paradox) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/automation-paradox) — extended entry
+
+## Metadata
+
+first_used: 2026-04-09
+pillar: What We Observe
 
 ---
-
-*First used: 2026-04-09*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

@@ -1,6 +1,5 @@
 # Agentic Core
 
-**Canonical definition (Arco Lexicon)**
 > The modular code, workflow logic, and operational infrastructure shared across all Arco portfolio companies — the reusable technical foundation that makes each successive business launch faster, cheaper, and more architecturally mature than the last.
 
 ## Extended Definition
@@ -9,23 +8,26 @@ The Agentic Core is Arco's primary structural asset — the accumulated engineer
 
 ## Related Terms
 
-- [Infrastructure Drag](./infrastructure-drag.md) — [Infrastructure Drag on Arco Lexicon](https://arcoventure.studio/lexicon/infrastructure-drag)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Proven Market](./proven-market.md) — [Proven Market on Arco Lexicon](https://arcoventure.studio/lexicon/proven-market)
+- [Infrastructure Drag](https://arcoventure.studio/lexicon/infrastructure-drag) — The Agentic Core exists specifically to eliminate Infrastructure Drag for each successive Arco build by providing a proven architecture rather than requiring original foundational work.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Agentic Core encodes the exception handling and escalation protocols that make the Stewardship Model operationally viable across different business contexts.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Each Arco business built on the Agentic Core reaches Architectural Certainty faster because the foundational logic has already been validated in prior deployments.
+- [Automated Business](https://arcoventure.studio/lexicon/automated-business) — The Agentic Core distinguishes Arco's autonomous builds from automated businesses by providing architecture designed for autonomous execution from the first line of code.
+- [Proven Market](https://arcoventure.studio/lexicon/proven-market) — The Agentic Core compounds its value most powerfully in Proven Markets where demand stability allows the shared architecture to be deployed without refactoring.
 
-## In the Log
+## Articles
 
 - [The Case for the Studio: Why Founder-Led Models Struggle with Autonomy](https://arcoventure.studio/blog/case-for-the-studio)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/agentic-core)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/agentic-core)
+- [Lexicon](https://arcoventure.studio/lexicon/agentic-core) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/agentic-core) — extended entry
+
+## Metadata
+
+first_used: 2026-03-19
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-19*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

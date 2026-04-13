@@ -1,6 +1,5 @@
 # Architectural Certainty
 
-**Canonical definition (Arco Lexicon)**
 > The state in which a business's core logic is so robust that it requires no human decision-making for days or weeks at a time.
 
 ## Extended Definition
@@ -13,21 +12,24 @@ Achieving architectural certainty requires deterministic workflows, explicit exc
 
 ## Related Terms
 
-- [Autonomous Business](./autonomous-business.md) — [Autonomous Business on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — Architectural Certainty is the defining technical condition that separates an autonomous business from one that merely applies automation to human-centric workflows.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model is only viable once Architectural Certainty is reached; until then, the human role remains operational rather than supervisory.
+- [MTTI (Mean Time to Intervention)](https://arcoventure.studio/lexicon/mtti) — MTTI is the primary operational metric for Architectural Certainty: a system running more than 72 hours between human interventions has achieved the target state.
 
-## In the Log
+## Articles
 
 - [The Difference Between an Automated Business and an Autonomous One](https://arcoventure.studio/blog/automated-vs-autonomous)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/architectural-certainty)
+- [Lexicon](https://arcoventure.studio/lexicon/architectural-certainty) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/architectural-certainty) — extended entry
+
+## Metadata
+
+first_used: 2026-03-05
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-05*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

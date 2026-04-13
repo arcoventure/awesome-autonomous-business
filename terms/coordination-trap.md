@@ -1,6 +1,5 @@
 # Coordination Trap
 
-**Canonical definition (Arco Lexicon)**
 > The failure mode that occurs when a business reduces the effort required for individual tasks through AI tools without removing the human coordination dependencies that govern how those tasks connect — so volume growth still requires proportional hiring despite AI adoption.
 
 ## Extended Definition
@@ -15,32 +14,34 @@ The Coordination Trap is distinct from the Automation Paradox, though the two co
 
 ## Related Terms
 
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Coordination Surface](./coordination-surface.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-surface)
-- [Headcount Decoupling](./headcount-decoupling.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/headcount-decoupling)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Operational Drag](./operational-drag.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-drag)
-- [Intervention Threshold](./intervention-threshold.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/intervention-threshold)
-- [Automated Business](./automated-business.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/automated-business)
-- [Autonomous Business](./autonomous-business.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/autonomous-business)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [Labor-to-Compute Substitution](./labor-to-compute-substitution.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/labor-to-compute-substitution)
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — The Coordination Trap is what happens when AI programmes reduce task duration without reducing the Coordination Tax that governs how those tasks connect.
+- [Coordination Surface](https://arcoventure.studio/lexicon/coordination-surface) — A business in the Coordination Trap has an unchanged Coordination Surface: the human-to-human handoff map remains intact regardless of how much task acceleration has been applied.
+- [Headcount Decoupling](https://arcoventure.studio/lexicon/headcount-decoupling) — Headcount Decoupling resolves the Coordination Trap by removing coordination dependencies from the workflow architecture, not just from individual tasks.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — A business in the Coordination Trap has not changed its Human-to-Logic Ratio; it has only changed the speed at which its human-dependent logic runs.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — The Coordination Trap preserves Operational Drag at the structural level: the non-revenue-generating coordination work continues to consume capacity even as task execution accelerates.
+- [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — Escaping the Coordination Trap requires setting explicit Intervention Thresholds that allow agents to route tasks without human sign-off at every step.
+- [Automated Business](https://arcoventure.studio/lexicon/automated-business) — The automated business is the canonical example of the Coordination Trap: technology has been applied to individual tasks while the human coordination architecture governing them remains intact.
+- [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — The autonomous business escapes the Coordination Trap by redesigning the workflow from first principles to remove coordination dependencies entirely.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model resolves the Coordination Trap by shifting human involvement from routine task governance to exception handling, so volume growth does not require proportional hiring.
+- [Labor-to-Compute Substitution](https://arcoventure.studio/lexicon/labor-to-compute-substitution) — Labor-to-Compute Substitution breaks the Coordination Trap by replacing the variable human labour that generates coordination dependencies with compute that requires none.
 
-## In the Log
+## Articles
 
 - [Why AI Businesses Scale Without Hiring (And Why Most Companies Can't)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
 - [Why Most AI Transformations Fail (The Coordination Tax Explained)](https://arcoventure.studio/blog/why-ai-transformations-fail)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 - [Legacy Liability: Why Incumbents Can't Adapt](https://arcoventure.studio/blog/legacy-liability)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/coordination-trap)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/coordination-trap)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/coordination-trap.md)
+- [Lexicon](https://arcoventure.studio/lexicon/coordination-trap) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/coordination-trap) — extended entry
+
+## Metadata
+
+first_used: 2026-04-09
+pillar: What We Observe
 
 ---
-
-*First used: 2026-04-09*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

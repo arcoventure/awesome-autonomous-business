@@ -1,6 +1,5 @@
 # Deterministic Loop
 
-**Canonical definition (Arco Lexicon)**
 > A revenue loop in which the core transaction steps follow a fixed, encodable sequence — the architectural precondition for autonomous operation and Arco's second structural indicator of a breakable market.
 
 ## Extended Definition
@@ -11,25 +10,27 @@ The Deterministic Loop is distinct from the Revenue Loop. The Revenue Loop descr
 
 ## Related Terms
 
-- [Revenue Loop](./revenue-loop.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/revenue-loop)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Systemic Resistance](./systemic-resistance.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/systemic-resistance)
-- [Architectural Certainty](./architectural-certainty.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/architectural-certainty)
-- [Deterministic Outcome](./deterministic-outcome.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/deterministic-outcome)
+- [Revenue Loop](https://arcoventure.studio/lexicon/revenue-loop) — The Revenue Loop is the economic sequence that a Deterministic Loop evaluates architecturally: a Deterministic Loop is the confirmation that the Revenue Loop can be encoded as logic.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — The Human-to-Logic Ratio is the financial measure of how much of the Revenue Loop requires human coordination; a Deterministic Loop is the architectural test of whether that dependency can be eliminated.
+- [Systemic Resistance](https://arcoventure.studio/lexicon/systemic-resistance) — Systemic Resistance produces non-deterministic loops: when legal, social, or evaluative requirements mandate human judgment at a critical step, the loop cannot be encoded as logic.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — A Deterministic Loop is the prerequisite for Architectural Certainty: a system cannot run without human decisions for days at a time if its core revenue sequence requires human judgment to evaluate outcomes.
+- [Deterministic Outcome](https://arcoventure.studio/lexicon/deterministic-outcome) — A Deterministic Outcome is the evaluation standard that each step in a Deterministic Loop must meet: the success or failure of each unit of work must be assessable by logic rather than preference.
 
-## In the Log
+## Articles
 
 - [The Human-to-Logic Ratio: The One Metric That Identifies Breakable Markets](https://arcoventure.studio/blog/the-human-to-logic-ratio)
 - [What Not to Build: Markets That Look Attractive but Fail Structurally](https://arcoventure.studio/blog/what-not-to-build)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-loop)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/deterministic-loop)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/deterministic-loop.md)
+- [Lexicon](https://arcoventure.studio/lexicon/deterministic-loop) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/deterministic-loop) — extended entry
+
+## Metadata
+
+first_used: 2026-03-31
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-31*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

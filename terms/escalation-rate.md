@@ -1,6 +1,5 @@
 # Escalation Rate
 
-**Canonical definition (Arco Lexicon)**
 > The proportion of agentic task executions that require escalation to a human Steward — the primary operational metric governing the boundary between autonomous execution and human judgment under the Stewardship Model.
 
 ## Extended Definition
@@ -11,26 +10,28 @@ The Escalation Rate is not a fixed target across the portfolio. It is tier-depen
 
 ## Related Terms
 
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [MTTI (Mean Time to Intervention)](./mtti.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/mtti)
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Judgment Layer / Execution Layer](./judgment-layer-execution-layer.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/judgment-layer-execution-layer)
-- [Intervention Threshold](./intervention-threshold.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/intervention-threshold)
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — The Escalation Rate target varies by task tier: approximately 1:100 at T1, 1:5 to 1:10 at T2, and mandatory human involvement at T3.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Escalation Rate is the operational metric that validates the Stewardship Model: a rate within target confirms the Steward is handling exceptions, not routine execution.
+- [MTTI (Mean Time to Intervention)](https://arcoventure.studio/lexicon/mtti) — MTTI and Escalation Rate are complementary operational metrics: MTTI measures how long the system runs between interventions, while Escalation Rate measures the proportion of transactions that trigger one.
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — The Escalation Rate directly determines the operational arbitrage captured: a 1% escalation rate at T1 means 99% of transactions execute at near-zero marginal cost, capturing the full human-to-compute cost differential.
+- [Judgment Layer / Execution Layer](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — The Escalation Rate is the operational measurement of where the boundary between the Execution Layer and Judgment Layer has been set in practice.
+- [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — The Intervention Threshold is the design parameter that sets the target Escalation Rate; the actual Escalation Rate in operation is the measurement that confirms whether the threshold was set correctly.
 
-## In the Log
+## Articles
 
 - [The Stewardship Model: The Human Role in an Autonomous Business](https://arcoventure.studio/blog/stewardship-model)
 - [What We Mean When We Say Agentic](https://arcoventure.studio/blog/what-we-mean-agentic)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/escalation-rate)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/escalation-rate)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/escalation-rate.md)
+- [Lexicon](https://arcoventure.studio/lexicon/escalation-rate) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/escalation-rate) — extended entry
+
+## Metadata
+
+first_used: 2026-04-07
+pillar: How We Think
 
 ---
-
-*First used: 2026-04-07*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

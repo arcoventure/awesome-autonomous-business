@@ -1,6 +1,5 @@
 # Proof of Action
 
-**Canonical definition (Arco Lexicon)**
 > The immutable ledger of every agentic decision and handoff in an Arco business — structured so that an auditor can replay the company's operations in sequence and verify that every action was within the system's defined governance parameters.
 
 ## Extended Definition
@@ -10,25 +9,28 @@ A traditional due diligence process reconstructs how a business operates through
 
 ## Related Terms
 
-- [Deterministic Logging](./deterministic-logging.md) — [Deterministic Logging on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-logging)
-- [Key-Man Risk](./key-man-risk.md) — [Key-Man Risk on Arco Lexicon](https://arcoventure.studio/lexicon/key-man-risk)
-- [Turnkey Margin](./turnkey-margin.md) — [Turnkey Margin on Arco Lexicon](https://arcoventure.studio/lexicon/turnkey-margin)
-- [Deterministic Failure](./deterministic-failure.md) — [Deterministic Failure on Arco Lexicon](https://arcoventure.studio/lexicon/deterministic-failure)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Liquidity Lock](./liquidity-lock.md) — [Liquidity Lock on Arco Lexicon](https://arcoventure.studio/lexicon/liquidity-lock)
+- [Deterministic Logging](https://arcoventure.studio/lexicon/deterministic-logging) — Proof of Action is the protocol layer built on top of Deterministic Logging: the logs provide the raw causal record; Proof of Action structures that record so an external auditor can navigate and replay it.
+- [Key-Man Risk](https://arcoventure.studio/lexicon/key-man-risk) — Proof of Action eliminates Key-Man Risk from the due diligence equation: the ledger replaces management interviews as the primary source of operational truth, removing the dependency on individual cooperation and memory.
+- [Turnkey Margin](https://arcoventure.studio/lexicon/turnkey-margin) — Proof of Action is a structural component of Turnkey Margin: an acquirer can verify governance compliance from the ledger rather than requiring management to explain how the system works.
+- [Deterministic Failure](https://arcoventure.studio/lexicon/deterministic-failure) — Proof of Action records every Deterministic Failure event in full context, giving the acquirer the ability to audit how the system handles exceptions and verify that the failure protocol functioned correctly.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — Proof of Action documents the Steward's interventions in the same ledger as the system's autonomous decisions, giving auditors a complete picture of where human judgment was applied and why.
+- [Liquidity Lock](https://arcoventure.studio/lexicon/liquidity-lock) — Proof of Action is the governance protocol that converts operational excellence into Liquidity Lock: the structured ledger makes the business's logic transferable and verifiable to an acquirer.
 
-## In the Log
+## Articles
 
 - [Auditable Autonomy: Solving the Black Box Problem](https://arcoventure.studio/blog/auditable-autonomy)
 - [Engineering for Liquidity: Why Autonomous Companies Are the Ultimate Acquisition Targets](https://arcoventure.studio/blog/engineering-for-liquidity)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/proof-of-action)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/proof-of-action)
+- [Lexicon](https://arcoventure.studio/lexicon/proof-of-action) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/proof-of-action) — extended entry
+
+## Metadata
+
+first_used: 2026-03-25
+pillar: What We've Learned
 
 ---
-
-*First used: 2026-03-25*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

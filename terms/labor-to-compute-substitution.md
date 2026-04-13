@@ -1,6 +1,5 @@
 # Labor-to-Compute Substitution
 
-**Canonical definition (Arco Lexicon)**
 > The replacement of variable human labour costs with fixed or near-zero marginal compute costs for the same unit of operational output — the primary mechanism through which Operational Arbitrage is captured and the Coordination Tax eliminated.
 
 ## Extended Definition
@@ -13,30 +12,32 @@ In an autonomous operation, the incremental cost of an additional unit of output
 
 ## Related Terms
 
-- [Operational Arbitrage](./operational-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/operational-arbitrage)
-- [Workforce Arbitrage](./workforce-arbitrage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/workforce-arbitrage)
-- [Coordination Tax](./coordination-tax.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/coordination-tax)
-- [Human to Logic Ratio](./human-to-logic-ratio.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/human-to-logic-ratio)
-- [Revenue to Headcount Advantage](./revenue-to-headcount-advantage.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage)
-- [Intervention Threshold](./intervention-threshold.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/intervention-threshold)
-- [Task Tiers (T1 / T2 / T3)](./t1-t2-t3.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/t1-t2-t3)
-- [Stewardship Model](./stewardship-model.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/stewardship-model)
-- [Judgment Layer / Execution Layer](./judgment-layer-execution-layer.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/judgment-layer-execution-layer)
-- [Legacy Liability](./legacy-liability.md) — [Arco Lexicon →](https://arcoventure.studio/lexicon/legacy-liability)
+- [Operational Arbitrage](https://arcoventure.studio/lexicon/operational-arbitrage) — Labor-to-Compute Substitution is the mechanism through which Operational Arbitrage is realised: replacing variable human labour with near-zero marginal compute converts the cost differential into structural margin.
+- [Workforce Arbitrage](https://arcoventure.studio/lexicon/workforce-arbitrage) — Workforce Arbitrage is the role-level quantification of Labor-to-Compute Substitution: the cost delta between a human performing a specific task and an agentic stack performing the same task.
+- [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — Labor-to-Compute Substitution eliminates the Coordination Tax at the same time it replaces human labour: compute does not require human-to-human alignment, so the overhead that creates the tax does not exist.
+- [Human to Logic Ratio](https://arcoventure.studio/lexicon/human-to-logic-ratio) — Labor-to-Compute Substitution directly reduces the Human-to-Logic Ratio: each unit of human labour replaced with compute shifts gross margin from the human cost base to the logic cost base.
+- [Revenue to Headcount Advantage](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage) — The Revenue to Headcount Advantage is the performance benchmark that confirms Labor-to-Compute Substitution has been achieved: 10:1 revenue per employee demonstrates the cost structure has been structurally transformed.
+- [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — The Intervention Threshold determines how completely Labor-to-Compute Substitution is achieved: only the tasks that exceed the threshold remain in the human cost base.
+- [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — Labor-to-Compute Substitution is most complete at T1, where tasks are routine and fully encodable, and least achievable at T3, where the task definition requires human judgment that cannot be replaced.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model is the human architecture that Labor-to-Compute Substitution makes viable: one Steward governing the exceptions a compute-driven system cannot handle autonomously.
+- [Judgment Layer / Execution Layer](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — Labor-to-Compute Substitution applies to the Execution Layer: the tasks that follow deterministic logic are replaced with compute, while the Judgment Layer remains with the Steward.
+- [Legacy Liability](https://arcoventure.studio/lexicon/legacy-liability) — Legacy Liability prevents incumbents from achieving Labor-to-Compute Substitution: the coordination architecture is too embedded to dismantle, so the human cost base cannot be replaced without rebuilding the business.
 
-## In the Log
+## Articles
 
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/labor-to-compute-substitution)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/labor-to-compute-substitution)
-- [Markdown source on GitHub](https://github.com/arcoventure/awesome-autonomous-business/blob/main/terms/labor-to-compute-substitution.md)
+- [Lexicon](https://arcoventure.studio/lexicon/labor-to-compute-substitution) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/labor-to-compute-substitution) — extended entry
+
+## Metadata
+
+first_used: 2026-04-07
+pillar: How We Think
 
 ---
-
-*First used: 2026-04-07*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

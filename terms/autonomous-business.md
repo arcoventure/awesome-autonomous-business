@@ -1,6 +1,5 @@
 # Autonomous Business
 
-**Canonical definition (Arco Lexicon)**
 > A company whose core operations run independently of human labour, engineered from first principles rather than automated from existing processes.
 
 ## Extended Definition
@@ -13,23 +12,26 @@ The defining characteristic is Architectural Certainty: the business logic is so
 
 ## Related Terms
 
-- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
-- [Stewardship Model](./stewardship-model.md) — [Stewardship Model on Arco Lexicon](https://arcoventure.studio/lexicon/stewardship-model)
-- [Architectural Certainty](./architectural-certainty.md) — [Architectural Certainty on Arco Lexicon](https://arcoventure.studio/lexicon/architectural-certainty)
-- [MTTI (Mean Time to Intervention)](./mtti.md) — [MTTI (Mean Time to Intervention) on Arco Lexicon](https://arcoventure.studio/lexicon/mtti)
+- [Automated Business](https://arcoventure.studio/lexicon/automated-business) — The automated business is the architectural predecessor: where automation optimises a human-centric structure, the autonomous business replaces the structure from first principles.
+- [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model defines the human role in an autonomous business: not execution, but architectural oversight and exception handling.
+- [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Architectural Certainty is the technical condition that defines an autonomous business — the logic running without human decisions for days or weeks at a time.
+- [MTTI (Mean Time to Intervention)](https://arcoventure.studio/lexicon/mtti) — MTTI is the operational benchmark for the autonomous business: a target of greater than 72 hours between required human interventions.
 
-## In the Log
+## Articles
 
 - [The Difference Between an Automated Business and an Autonomous One](https://arcoventure.studio/blog/automated-vs-autonomous)
 - [What We Mean When We Say Agentic](https://arcoventure.studio/blog/what-we-mean-agentic)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/autonomous-business)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/autonomous-business)
+- [Lexicon](https://arcoventure.studio/lexicon/autonomous-business) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/autonomous-business) — extended entry
+
+## Metadata
+
+first_used: 2026-03-05
+pillar: How We Think
 
 ---
-
-*First used: 2026-03-05*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*

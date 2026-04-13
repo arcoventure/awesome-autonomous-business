@@ -1,6 +1,5 @@
 # UI Tax
 
-**Canonical definition (Arco Lexicon)**
 > The cost premium embedded in software products designed for human cognition — including graphical interface development, permissions infrastructure, user training, and the subscription markup charged for enterprise UX — which is entirely redundant in an agentic stack where agents require no interface to operate.
 
 ## Extended Definition
@@ -10,21 +9,24 @@ An autonomous agent operates on none of these signals. It calls an API endpoint 
 
 ## Related Terms
 
-- [De-SaaS-ing](./de-saas-ing.md) — [De-SaaS-ing on Arco Lexicon](https://arcoventure.studio/lexicon/de-saas-ing)
-- [Operational Drag](./operational-drag.md) — [Operational Drag on Arco Lexicon](https://arcoventure.studio/lexicon/operational-drag)
-- [Automated Business](./automated-business.md) — [Automated Business on Arco Lexicon](https://arcoventure.studio/lexicon/automated-business)
+- [De-SaaS-ing](https://arcoventure.studio/lexicon/de-saas-ing) — De-SaaS-ing is the operational discipline for eliminating the UI Tax: replacing per-seat SaaS subscriptions with API-first infrastructure removes the interface pricing that agents never consume.
+- [Operational Drag](https://arcoventure.studio/lexicon/operational-drag) — The UI Tax is a category of Operational Drag: software costs tied to human interface capabilities that consume budget without contributing to autonomous revenue generation.
+- [Automated Business](https://arcoventure.studio/lexicon/automated-business) — An automated business is most exposed to the UI Tax: it has deployed technology on a human-centric structure, so every SaaS subscription it pays is priced for the human operators it still requires.
 
-## In the Log
+## Articles
 
 - [The Death of the Seat License: Why Autonomous Businesses Don't Buy SaaS](https://arcoventure.studio/blog/death-of-seat-license)
 
-## Links
+## References
 
-- [Concise entry on Arco Lexicon](https://arcoventure.studio/lexicon/ui-tax)
-- [Autonomous Business Wiki](https://wiki.arcoventure.studio/lexicon/ui-tax)
+- [Lexicon](https://arcoventure.studio/lexicon/ui-tax) — canonical definition
+- [Wiki](https://wiki.arcoventure.studio/docs/ui-tax) — extended entry
+
+## Metadata
+
+first_used: 2026-03-24
+pillar: What We Observe
 
 ---
-
-*First used: 2026-03-24*
 
 *Part of the [Arco Lexicon Ecosystem](https://arcoventure.studio/lexicon) — maintained by [Arco Venture Studio](https://arcoventure.studio)*
