@@ -1,0 +1,751 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+  <!-- Primary meta -->
+  <title>Autonomous Business Lexicon — Curated Terminology for Autonomous Business Design</title>
+  <meta name="description" content="A curated open reference of terms for autonomous business design. Definitions, frameworks, and vocabulary maintained by Arco Venture Studio." />
+  <link rel="canonical" href="https://awesomeautonomousbusiness.com" />
+
+  <!-- Open Graph -->
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://awesomeautonomousbusiness.com" />
+  <meta property="og:title" content="Autonomous Business Lexicon — Curated Terminology for Autonomous Business Design" />
+  <meta property="og:description" content="A curated open reference of terms for autonomous business design. Definitions, frameworks, and vocabulary maintained by Arco Venture Studio." />
+  <meta property="og:image" content="https://awesomeautonomousbusiness.com/og.png" />
+  <meta property="og:site_name" content="Autonomous Business Lexicon" />
+
+  <!-- Twitter / X -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="Autonomous Business Lexicon" />
+  <meta name="twitter:description" content="A curated open reference of terms for autonomous business design. Maintained by Arco Venture Studio." />
+  <meta name="twitter:image" content="https://awesomeautonomousbusiness.com/og.png" />
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;1,300&family=DM+Sans:wght@300;400&display=swap" rel="stylesheet" />
+
+  <!-- JSON-LD: DefinedTermSet -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "DefinedTermSet",
+    "name": "Autonomous Business Lexicon",
+    "description": "A curated open reference of terms for autonomous business design. Definitions, frameworks, and vocabulary maintained by Arco Venture Studio.",
+    "url": "https://awesomeautonomousbusiness.com",
+    "inDefinedTermSet": "https://arcoventure.studio/lexicon",
+    "hasDefinedTerm": [
+      {
+        "@type": "DefinedTerm",
+        "name": "Autonomous Business",
+        "description": "A company whose core operations run independently of human labour, engineered from first principles rather than automated from existing processes.",
+        "url": "https://arcoventure.studio/lexicon/autonomous-business",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Agentic Core",
+        "description": "The modular code, workflow logic, and operational infrastructure shared across all Arco portfolio companies — the reusable technical foundation that makes each successive business launch faster, cheaper, and more architecturally mature than the last.",
+        "url": "https://arcoventure.studio/lexicon/agentic-core",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Architectural Certainty",
+        "description": "The state in which a business's core logic is so robust that it requires no human decision-making for days or weeks at a time.",
+        "url": "https://arcoventure.studio/lexicon/architectural-certainty",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Stewardship Model",
+        "description": "The Arco operating model in which a single competent operator oversees an agentic stack, acting as architect and exception handler rather than executor.",
+        "url": "https://arcoventure.studio/lexicon/stewardship-model",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Human to Logic Ratio",
+        "description": "Arco's primary market selection metric — the proportion of a business's gross margin consumed by human labour costs, used to identify industries where the Operational Arbitrage available to an autonomous competitor is structurally large.",
+        "url": "https://arcoventure.studio/lexicon/human-to-logic-ratio",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Operational Arbitrage",
+        "description": "The cost and output delta between a human-staffed operation and an equivalent agentic operation, widening over time as AI costs fall and human costs rise.",
+        "url": "https://arcoventure.studio/lexicon/operational-arbitrage",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Coordination Tax",
+        "description": "The overhead cost of human-to-human alignment — the meetings, approvals, status updates, and manual handoffs required to keep a traditionally structured business functioning.",
+        "url": "https://arcoventure.studio/lexicon/coordination-tax",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "MTTI (Mean Time to Intervention)",
+        "description": "The average time between required human interventions in an agentic system. Arco's target is greater than 72 hours.",
+        "url": "https://arcoventure.studio/lexicon/mtti",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Revenue to Headcount Advantage",
+        "description": "Arco's primary performance benchmark — the target ratio at which an autonomous business generates ten times more revenue per employee than the industry incumbents it displaces.",
+        "url": "https://arcoventure.studio/lexicon/revenue-to-headcount-advantage",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      },
+      {
+        "@type": "DefinedTerm",
+        "name": "Arco Flywheel",
+        "description": "The compounding mechanism by which each autonomous business Arco builds generates operational proof, resolved failure patterns, and reusable agentic infrastructure — reducing the cost and time of every subsequent launch while increasing the architectural maturity of every subsequent company.",
+        "url": "https://arcoventure.studio/lexicon/arco-flywheel",
+        "inDefinedTermSet": "https://arcoventure.studio/lexicon"
+      }
+    ]
+  }
+  </script>
+
+  <style>
+    /* ── Design tokens ── */
+    :root {
+      --obsidian:   #0D0F12;
+      --copper:     #C47A3A;
+      --copper-dim: rgba(196, 122, 58, 0.12);
+      --copper-mid: rgba(196, 122, 58, 0.24);
+      --copper-bg:  rgba(196, 122, 58, 0.04);
+      --slate:      #F4F3EF;
+      --iron:       #4A4E58;
+      --bone:       #E8E4DC;
+      --font-serif: 'Cormorant Garamond', Georgia, serif;
+      --font-sans:  'DM Sans', system-ui, sans-serif;
+    }
+
+    /* ── Reset ── */
+    *, *::before, *::after {
+      box-sizing: border-box;
+      margin: 0;
+      padding: 0;
+    }
+
+    html {
+      font-size: 16px;
+      scroll-behavior: smooth;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+
+    body {
+      background-color: var(--obsidian);
+      color: var(--slate);
+      font-family: var(--font-sans);
+      font-weight: 300;
+      line-height: 1.6;
+      min-height: 100vh;
+    }
+
+    a {
+      color: inherit;
+      text-decoration: none;
+    }
+
+    /* ── Navigation ── */
+    .nav {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 100;
+      padding: 28px 60px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      transition: background-color 0.3s ease, border-color 0.3s ease;
+      border-bottom: 1px solid transparent;
+    }
+
+    .nav.scrolled {
+      background-color: rgba(13, 15, 18, 0.96);
+      border-bottom-color: var(--copper-dim);
+      backdrop-filter: blur(12px);
+      -webkit-backdrop-filter: blur(12px);
+    }
+
+    /* ARCO wordmark */
+    .nav-logo {
+      display: flex;
+      flex-direction: column;
+      gap: 3px;
+      text-decoration: none;
+    }
+
+    .nav-logo-arc {
+      width: 52px;
+      height: 18px;
+    }
+
+    .nav-logo-arc svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .arc-path {
+      stroke-dasharray: 120;
+      stroke-dashoffset: 120;
+      animation: drawArc 1.4s cubic-bezier(0.4, 0, 0.2, 1) forwards 0.2s;
+    }
+
+    @keyframes drawArc {
+      to { stroke-dashoffset: 0; }
+    }
+
+    .nav-logo-text {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.3em;
+      color: var(--copper);
+      text-transform: uppercase;
+    }
+
+    /* Nav links */
+    .nav-links {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 40px;
+    }
+
+    .nav-links a {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 300;
+      letter-spacing: 0.05em;
+      color: var(--iron);
+      transition: color 0.2s ease;
+    }
+
+    .nav-links a:hover {
+      color: var(--copper);
+    }
+
+    /* ── Hero ── */
+    .hero {
+      padding: 160px 60px 80px;
+      max-width: 900px;
+    }
+
+    .hero-label {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      color: var(--copper);
+      text-transform: uppercase;
+      margin-bottom: 32px;
+      opacity: 0;
+      animation: fadeUp 0.8s ease forwards 0.3s;
+    }
+
+    .hero h1 {
+      font-family: var(--font-serif);
+      font-weight: 300;
+      font-size: clamp(48px, 7vw, 88px);
+      line-height: 1.05;
+      color: var(--slate);
+      letter-spacing: -0.01em;
+      margin-bottom: 32px;
+      opacity: 0;
+      animation: fadeUp 0.9s ease forwards 0.5s;
+    }
+
+    .hero-sub {
+      font-family: var(--font-sans);
+      font-size: 16px;
+      font-weight: 300;
+      color: var(--iron);
+      max-width: 540px;
+      line-height: 1.7;
+      opacity: 0;
+      animation: fadeUp 0.9s ease forwards 0.7s;
+    }
+
+    @keyframes fadeUp {
+      from {
+        opacity: 0;
+        transform: translateY(20px);
+      }
+      to {
+        opacity: 1;
+        transform: translateY(0);
+      }
+    }
+
+    /* ── Section divider ── */
+    .divider {
+      height: 1px;
+      background-color: var(--copper-dim);
+      margin: 0 60px;
+      opacity: 0;
+      animation: fadeUp 0.6s ease forwards 0.9s;
+    }
+
+    /* ── About section ── */
+    .about-section {
+      padding: 64px 60px;
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .about-label {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      color: var(--copper);
+      text-transform: uppercase;
+    }
+
+    .about-copy {
+      font-family: var(--font-sans);
+      font-size: 15px;
+      font-weight: 300;
+      color: var(--iron);
+      line-height: 1.75;
+    }
+
+    .about-link {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 400;
+      letter-spacing: 0.03em;
+      color: var(--slate);
+      transition: opacity 0.2s ease;
+      align-self: flex-start;
+    }
+
+    .about-link:hover {
+      opacity: 0.65;
+    }
+
+    /* ── Terms section ── */
+    .terms-section {
+      padding: 80px 60px 80px;
+    }
+
+    .terms-section-header {
+      display: flex;
+      align-items: baseline;
+      justify-content: space-between;
+      margin-bottom: 48px;
+    }
+
+    .terms-section-title {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.18em;
+      color: var(--iron);
+      text-transform: uppercase;
+    }
+
+    .terms-section-count {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 300;
+      color: var(--iron);
+      letter-spacing: 0.05em;
+    }
+
+    /* Terms grid */
+    .terms-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 1px;
+      background-color: var(--copper-dim);
+      border: 1px solid var(--copper-dim);
+    }
+
+    .term-card {
+      background-color: var(--obsidian);
+      padding: 36px 40px 32px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      transition: background-color 0.2s ease;
+      position: relative;
+    }
+
+    .term-card:hover {
+      background-color: var(--copper-bg);
+    }
+
+    .term-label {
+      font-family: var(--font-sans);
+      font-size: 10px;
+      font-weight: 400;
+      letter-spacing: 0.2em;
+      color: var(--copper);
+      text-transform: uppercase;
+    }
+
+    .term-name {
+      font-family: var(--font-serif);
+      font-weight: 300;
+      font-size: 22px;
+      line-height: 1.2;
+      color: var(--slate);
+      letter-spacing: 0.01em;
+    }
+
+    .term-definition {
+      font-family: var(--font-sans);
+      font-size: 14px;
+      font-weight: 300;
+      color: var(--iron);
+      line-height: 1.65;
+      flex: 1;
+    }
+
+    .term-link {
+      font-family: var(--font-sans);
+      font-size: 12px;
+      font-weight: 400;
+      letter-spacing: 0.04em;
+      color: var(--copper);
+      margin-top: 4px;
+      transition: opacity 0.2s ease;
+      align-self: flex-start;
+    }
+
+    .term-link:hover {
+      opacity: 0.7;
+    }
+
+    /* ── Footer ── */
+    .footer {
+      border-top: 1px solid var(--copper-dim);
+      padding: 48px 60px;
+      display: grid;
+      grid-template-columns: 1fr auto;
+      align-items: end;
+      gap: 40px;
+    }
+
+    .footer-left {
+      display: flex;
+      flex-direction: column;
+      gap: 20px;
+    }
+
+    .footer-logo-arc {
+      width: 44px;
+      height: 15px;
+    }
+
+    .footer-logo-arc svg {
+      width: 100%;
+      height: 100%;
+      display: block;
+    }
+
+    .footer-logo-text {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 400;
+      letter-spacing: 0.3em;
+      color: var(--copper);
+      text-transform: uppercase;
+    }
+
+    .footer-tagline {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 300;
+      color: rgba(244, 243, 239, 0.45);
+      letter-spacing: 0.01em;
+      line-height: 1.6;
+    }
+
+    .footer-links {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      align-items: flex-end;
+    }
+
+    .footer-links a {
+      font-family: var(--font-sans);
+      font-size: 13px;
+      font-weight: 300;
+      color: rgba(244, 243, 239, 0.65);
+      letter-spacing: 0.02em;
+      transition: color 0.2s ease;
+    }
+
+    .footer-links a:hover {
+      color: var(--copper);
+    }
+
+    .footer-credit {
+      font-family: var(--font-sans);
+      font-size: 11px;
+      font-weight: 300;
+      color: rgba(74, 78, 88, 0.7);
+      letter-spacing: 0.03em;
+      margin-top: 4px;
+    }
+
+    /* ── Responsive ── */
+    @media (max-width: 860px) {
+      .nav {
+        padding: 24px 32px;
+      }
+
+      .hero {
+        padding: 140px 32px 64px;
+      }
+
+      .divider {
+        margin: 0 32px;
+      }
+
+      .about-section {
+        padding: 56px 32px;
+      }
+
+      .terms-section {
+        padding: 64px 32px 64px;
+      }
+
+      .footer {
+        padding: 32px 32px;
+      }
+    }
+
+    @media (max-width: 680px) {
+      .terms-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .terms-section-header {
+        flex-direction: column;
+        gap: 8px;
+      }
+
+      .footer {
+        grid-template-columns: 1fr;
+      }
+
+      .footer-links {
+        align-items: flex-start;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .nav {
+        padding: 20px 24px;
+      }
+
+      .hero {
+        padding: 120px 24px 56px;
+      }
+
+      .divider {
+        margin: 0 24px;
+      }
+
+      .about-section {
+        padding: 48px 24px;
+      }
+
+      .terms-section {
+        padding: 56px 24px 56px;
+      }
+
+      .term-card {
+        padding: 28px 24px 24px;
+      }
+
+      .footer {
+        padding: 28px 24px;
+      }
+    }
+  </style>
+</head>
+
+<body>
+
+  <!-- Navigation -->
+  <nav class="nav" id="nav" role="navigation" aria-label="Primary">
+    <a href="https://awesomeautonomousbusiness.com" class="nav-logo" aria-label="Autonomous Business Lexicon — Home">
+      <div class="nav-logo-arc" aria-hidden="true">
+        <svg viewBox="0 0 52 18" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path
+            class="arc-path"
+            d="M2 17 Q26 1 50 17"
+            stroke="#C47A3A"
+            stroke-width="1.5"
+            fill="none"
+            stroke-linecap="round"
+          />
+        </svg>
+      </div>
+      <span class="nav-logo-text">Arco</span>
+    </a>
+
+    <ul class="nav-links">
+      <li><a href="https://arcoventure.studio/lexicon" target="_blank" rel="noopener">Full Lexicon &rarr;</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero -->
+  <header class="hero" role="banner">
+    <p class="hero-label">Arco Lexicon &mdash; Open Reference</p>
+    <h1>The Autonomous<br>Business Lexicon</h1>
+    <p class="hero-sub">A curated, open reference of terms for autonomous business design. Maintained by Arco Venture Studio.</p>
+  </header>
+
+  <!-- Divider -->
+  <div class="divider" role="separator" aria-hidden="true"></div>
+
+  <!-- About -->
+  <section class="about-section" aria-label="About this list">
+    <p class="about-label">About This List</p>
+    <p class="about-copy">The Arco Lexicon provides the precise language of autonomous business design — the core concepts, architectural practices, operational metrics, and distinctions that Arco Venture Studio uses to identify proven markets, reconstruct them as agentic companies, and operate them with minimal human intervention. Terms are selected for their specific meaning within this discipline: not general business vocabulary, but the emerging vocabulary of a practice that requires its own reference. The canonical Markdown source for each entry is maintained in an open repository and accepts contributions from practitioners, builders, and researchers working in the same space.</p>
+    <a class="about-link" href="https://github.com/arcoventure/awesome-autonomous-business" target="_blank" rel="noopener">Contribute on GitHub &rarr;</a>
+  </section>
+
+  <!-- Divider -->
+  <div class="divider" role="separator" aria-hidden="true"></div>
+
+  <!-- Terms -->
+  <main class="terms-section" id="terms">
+    <div class="terms-section-header">
+      <span class="terms-section-title">Foundational Terms</span>
+      <span class="terms-section-count">10 of 55 terms &mdash; <a href="https://arcoventure.studio/lexicon" style="color:var(--iron); text-decoration:underline; text-decoration-color:var(--copper-dim);" target="_blank" rel="noopener">View all</a></span>
+    </div>
+
+    <div class="terms-grid" role="list">
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Autonomous Business</h2>
+        <p class="term-definition">A company whose core operations run independently of human labour, engineered from first principles rather than automated from existing processes.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/autonomous-business" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Agentic Core</h2>
+        <p class="term-definition">The modular code, workflow logic, and operational infrastructure shared across all Arco portfolio companies &mdash; the reusable technical foundation that makes each successive business launch faster, cheaper, and more architecturally mature than the last.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/agentic-core" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Architectural Certainty</h2>
+        <p class="term-definition">The state in which a business's core logic is so robust that it requires no human decision-making for days or weeks at a time.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/architectural-certainty" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Stewardship Model</h2>
+        <p class="term-definition">The Arco operating model in which a single competent operator oversees an agentic stack, acting as architect and exception handler rather than executor.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/stewardship-model" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Human to Logic Ratio</h2>
+        <p class="term-definition">Arco's primary market selection metric &mdash; the proportion of a business's gross margin consumed by human labour costs, used to identify industries where the operational arbitrage available to an autonomous competitor is structurally large.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/human-to-logic-ratio" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Operational Arbitrage</h2>
+        <p class="term-definition">The cost and output delta between a human-staffed operation and an equivalent agentic operation, widening over time as AI costs fall and human costs rise.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/operational-arbitrage" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Coordination Tax</h2>
+        <p class="term-definition">The overhead cost of human-to-human alignment &mdash; the meetings, approvals, status updates, and manual handoffs required to keep a traditionally structured business functioning.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/coordination-tax" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">MTTI</h2>
+        <p class="term-definition">Mean Time to Intervention &mdash; the average time between required human interventions in an agentic system. Arco's target is greater than 72 hours.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/mtti" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Revenue to Headcount Advantage</h2>
+        <p class="term-definition">Arco's primary performance benchmark &mdash; the target ratio at which an autonomous business generates ten times more revenue per employee than the industry incumbents it displaces.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/revenue-to-headcount-advantage" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+      <article class="term-card" role="listitem">
+        <span class="term-label">Term</span>
+        <h2 class="term-name">Arco Flywheel</h2>
+        <p class="term-definition">The compounding mechanism by which each autonomous business Arco builds generates operational proof, resolved failure patterns, and reusable agentic infrastructure &mdash; reducing the cost and time of every subsequent launch while increasing the architectural maturity of every subsequent company.</p>
+        <a class="term-link" href="https://arcoventure.studio/lexicon/arco-flywheel" target="_blank" rel="noopener">Full definition &rarr;</a>
+      </article>
+
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer" role="contentinfo">
+    <div class="footer-left">
+      <a href="https://arcoventure.studio" target="_blank" rel="noopener" style="display:inline-flex;flex-direction:column;gap:3px;text-decoration:none;">
+        <div class="footer-logo-arc" aria-hidden="true">
+          <svg viewBox="0 0 44 15" fill="none" xmlns="http://www.w3.org/2000/svg">
+            <path d="M2 14 Q22 1 42 14" stroke="#C47A3A" stroke-width="1.5" fill="none" stroke-linecap="round"/>
+          </svg>
+        </div>
+        <span class="footer-logo-text">Arco</span>
+      </a>
+      <p class="footer-tagline">Autonomous by design.<br>Operational by default.</p>
+    </div>
+
+    <div class="footer-links">
+      <a href="https://arcoventure.studio" target="_blank" rel="noopener">arcoventure.studio</a>
+      <a href="https://arcoventure.studio/lexicon" target="_blank" rel="noopener">Full Lexicon</a>
+      <a href="https://wiki.arcoventure.studio" target="_blank" rel="noopener">Wiki</a>
+      <a href="https://github.com/arcoventure/awesome-autonomous-business" target="_blank" rel="noopener">GitHub</a>
+      <span class="footer-credit">Maintained by Arco Venture Studio</span>
+    </div>
+  </footer>
+
+  <!-- Scroll-triggered nav background -->
+  <script>
+    (function () {
+      var nav = document.getElementById('nav');
+      function onScroll() {
+        if (window.scrollY > 80) {
+          nav.classList.add('scrolled');
+        } else {
+          nav.classList.remove('scrolled');
+        }
+      }
+      window.addEventListener('scroll', onScroll, { passive: true });
+    })();
+  </script>
+
+</body>
+</html>
