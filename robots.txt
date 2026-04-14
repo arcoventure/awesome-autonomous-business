@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awesomeautonomousbusiness.com/sitemap.xml
