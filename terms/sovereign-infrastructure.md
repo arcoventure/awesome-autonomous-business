@@ -10,6 +10,7 @@ The defining characteristic of Sovereign Infrastructure is that no single vendor
 ## Related Terms
 
 - [De-SaaS-ing](https://arcoventure.studio/lexicon/de-saas-ing) — De-SaaS-ing is the operational practice that produces Sovereign Infrastructure: each SaaS replacement moves the business closer to the state where all logic is owned and all external dependencies are priced by consumption.
+- [UI Tax](https://arcoventure.studio/lexicon/ui-tax) — Sovereign Infrastructure is the state in which the UI Tax has been fully eliminated: no per-seat, interface-priced software remains in the cost base, and every external dependency is priced by compute consumption.
 - [Arco Flywheel](https://arcoventure.studio/lexicon/arco-flywheel) — Each Sovereign Infrastructure implementation feeds into the Arco Flywheel: the integration patterns and API-first architectures developed for one business become reusable components for the next.
 - [Turnkey Margin](https://arcoventure.studio/lexicon/turnkey-margin) — Sovereign Infrastructure contributes to Turnkey Margin by eliminating vendor lock-in risk: an acquirer does not inherit dependencies on specific SaaS platforms whose pricing or availability could change post-acquisition.
 - [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Sovereign Infrastructure supports Architectural Certainty by removing external dependencies that could introduce schema changes, pricing surprises, or deprecation events that require unscheduled human intervention.

@@ -12,6 +12,7 @@ De-SaaS-ing is not a cost-cutting exercise. It is an architectural realignment. 
 - [Coordination Tax](https://arcoventure.studio/lexicon/coordination-tax) — SaaS tools are typically priced to support the human coordination workflows that generate the Coordination Tax; De-SaaS-ing removes the infrastructure that made that tax mandatory.
 - [Arco Flywheel](https://arcoventure.studio/lexicon/arco-flywheel) — Each successful De-SaaS-ing implementation feeds into the Arco Flywheel: the API-first integration pattern is reusable across successive portfolio companies.
 - [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — De-SaaS-ing is a prerequisite for Architectural Certainty: a system dependent on human-facing SaaS layers cannot achieve fully autonomous execution.
+- [UI Tax](https://arcoventure.studio/lexicon/ui-tax) — De-SaaS-ing is the direct solution to the UI Tax: replacing per-seat, interface-priced software with API-first infrastructure removes the human-facing cost overhead the agent never needs.
 
 ## Articles
 
