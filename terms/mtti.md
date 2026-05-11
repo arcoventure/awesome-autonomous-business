@@ -15,6 +15,7 @@ MTTI should not be confused with uptime or availability. A system can be fully a
 - [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — MTTI is the primary performance target for the Stewardship Model: a Steward whose system runs more than 72 hours between interventions is governing rather than operating.
 - [Architectural Certainty](https://arcoventure.studio/lexicon/architectural-certainty) — Achieving an MTTI greater than 72 hours is Arco's operational definition of Architectural Certainty: the system can run without human decisions for the target period.
 - [Autonomous Business](https://arcoventure.studio/lexicon/autonomous-business) — MTTI is the operational test that distinguishes an autonomous business from an automated one: a system requiring daily human steering has not achieved autonomous operation regardless of how much automation it contains.
+- [Nominal MTTI](https://arcoventure.studio/lexicon/nominal-mtti) — Nominal MTTI is the failure mode that the MTTI metric cannot detect on its own: when the Steward has stopped engaging with the governance surface, long MTTI reflects unmonitored drift rather than genuine Architectural Certainty.
 
 ## References
 
