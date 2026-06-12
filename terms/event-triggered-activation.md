@@ -24,6 +24,7 @@ Define the trigger specification for every agent before deployment: what event, 
 
 ## Articles
 
+- [The Event That Wakes the Agent](https://arcoventure.studio/blog/the-event-that-wakes-the-agent)
 - [Infrastructure Is Architecture](https://arcoventure.studio/blog/infrastructure-is-architecture)
 
 ## References
