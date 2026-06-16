@@ -22,6 +22,7 @@ In Autonomy Spectrum scoring, TEA is assessed against the T1 and T2 composition 
 - [Task Tiers (T1 / T2 / T3)](https://arcoventure.studio/lexicon/t1-t2-t3) — Task Tiers determine which task volume TEA scoring targets: T1 and T2 tasks are the primary candidates for agentic execution; T3 tasks with mandatory human judgment cannot contribute to a high TEA score.
 - [The 80 Percent Threshold](https://arcoventure.studio/lexicon/the-80-percent-threshold) — The 80 Percent Threshold is the operational benchmark that a score of 2 on TEA approaches: agents owning the revenue-generating task volume end-to-end is the execution expression of crossing that threshold.
 - [Judgment Layer / Execution Layer](https://arcoventure.studio/lexicon/judgment-layer-execution-layer) — TEA scores the Execution Layer directly: a score of 2 means the Execution Layer is owned entirely by agents, with humans present only in the Judgment Layer for the exception classes the architecture deliberately assigns to the Steward.
+- [Autonomy Spectrum Framework](https://arcoventure.studio/lexicon/autonomy-spectrum-framework) — Task Execution Autonomy is the first axis of the Autonomy Spectrum Framework, and the axis where most autonomy claims are made and where most of them fail inspection when scored against who actually moves the work.
 
 ## References
 

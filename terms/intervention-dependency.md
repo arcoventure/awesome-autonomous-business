@@ -24,6 +24,7 @@ In Autonomy Spectrum scoring, ID is assessed through MTTI on the core revenue lo
 - [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — The Intervention Threshold is the design parameter that determines the ID score: it specifies the conditions under which the system must halt and surface a decision, and the precision of that specification determines how rarely those conditions are met.
 - [Nominal MTTI](https://arcoventure.studio/lexicon/nominal-mtti) — Nominal MTTI is the failure mode that the ID validation requirement is designed to prevent: a long MTTI produced by a Steward who has stopped engaging with the Audit Surface is not evidence of a high ID score.
 - [Audit Surface](https://arcoventure.studio/lexicon/audit-surface) — The Audit Surface is the governance instrument that validates the ID score: an Intervention Dependency assessment is only valid when the Steward is demonstrably engaging with the governance digest.
+- [Autonomy Spectrum Framework](https://arcoventure.studio/lexicon/autonomy-spectrum-framework) — Intervention Dependency is the fourth axis of the Autonomy Spectrum Framework, and the only axis that requires a paired validation record confirming the Steward was in a position to intervene during the measurement window.
 
 ## References
 

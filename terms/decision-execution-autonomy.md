@@ -22,6 +22,7 @@ In Autonomy Spectrum scoring, DEA is assessed against the decision inventory of 
 - [Intervention Threshold](https://arcoventure.studio/lexicon/intervention-threshold) — The Intervention Threshold is the design parameter that determines DEA: it specifies the conditions under which encoded logic must halt and surface a decision to the Steward rather than resolving it autonomously.
 - [State Machine](https://arcoventure.studio/lexicon/state-machine) — The State Machine is the architectural implementation of high DEA: every routing, prioritisation, and escalation decision is encoded as a state transition that the logic resolves without human initiation.
 - [Exception Architecture](https://arcoventure.studio/lexicon/exception-architecture) — Exception Architecture governs the decision classes that fall below the DEA score: it specifies which operational states the logic cannot resolve and must escalate to the Steward.
+- [Autonomy Spectrum Framework](https://arcoventure.studio/lexicon/autonomy-spectrum-framework) — Decision Execution Autonomy is the second axis of the Autonomy Spectrum Framework, contributing up to 2 points of the composite score that places a business in one of four classification bands.
 
 ## References
 

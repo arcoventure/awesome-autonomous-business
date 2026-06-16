@@ -22,6 +22,7 @@ In Autonomy Spectrum scoring, PCS is assessed by mapping the Coordination Surfac
 - [The 80 Percent Threshold](https://arcoventure.studio/lexicon/the-80-percent-threshold) — The 80 Percent Threshold is the boundary between a PCS score of 1 and 2: a business crosses from agent-assisted to genuinely agentic when more than 80% of its cross-departmental handoffs execute without human intervention.
 - [Coordination Surface](https://arcoventure.studio/lexicon/coordination-surface) — The Coordination Surface is what PCS scoring maps: every human-to-human handoff point in the workflow is a transition that either adds to the score when encoded or subtracts from it when human-initiated.
 - [Suspend/Resume Architecture](https://arcoventure.studio/lexicon/suspend-resume-architecture) — Suspend/Resume Architecture is the infrastructure pattern that enables high PCS scores across long workflows: transitions that require waiting for external signals can be encoded as suspend points rather than human handoffs.
+- [Autonomy Spectrum Framework](https://arcoventure.studio/lexicon/autonomy-spectrum-framework) — The Process Continuity Score is the third axis of the Autonomy Spectrum Framework, scoring whether work flows or waits at the transitions between stages — the dimension where autonomy is most commonly lost.
 
 ## References
 

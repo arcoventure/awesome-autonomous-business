@@ -23,6 +23,7 @@ In Autonomy Spectrum scoring, SHI is the axis that can be assessed from outside 
 - [Inverse Complexity Scaling](https://arcoventure.studio/lexicon/inverse-complexity-scaling) — Inverse Complexity Scaling is the economic consequence of a high SHI score: when headcount is stable as revenue grows, the fixed cost of the architecture is amortised over an increasing volume of near-zero marginal cost executions.
 - [Revenue to Headcount Advantage](https://arcoventure.studio/lexicon/revenue-to-headcount-advantage) — Revenue to Headcount Advantage is the benchmark expression of SHI: the 10:1 target ratio is the quantified form of what a score of 2 on the SHI axis produces.
 - [Stewardship Model](https://arcoventure.studio/lexicon/stewardship-model) — The Stewardship Model is the operational structure that enables a high SHI score: when a single Steward governs an agentic stack rather than managing human workers, headcount does not scale with operational volume.
+- [Autonomy Spectrum Framework](https://arcoventure.studio/lexicon/autonomy-spectrum-framework) — Structural Headcount Independence is the fifth axis of the Autonomy Spectrum Framework and the axis acquirers weigh most heavily, because it scores whether the business is priced as a labour operation or as a machine that produces cash flow.
 
 ## References
 
