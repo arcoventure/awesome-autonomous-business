@@ -25,7 +25,7 @@ This is not a claim that Full-System Design is faster in absolute terms. The upf
 
 ## Articles
 
-- [Why You Shouldn't Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
+- [Why You Shouldn’t Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
 - [Why We Don't Build MVPs](https://arcoventure.studio/blog/why-we-dont-build-mvps)
 - [What Makes a Market Certain Enough to Build Into](https://arcoventure.studio/blog/what-makes-a-market-certain-enough)
 - [How to Choose a Market That Actually Works (Instead of Guessing)](https://arcoventure.studio/blog/how-to-choose-a-market)

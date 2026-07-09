@@ -1,14 +1,14 @@
 # Agent Specialisation
 
-> The architectural practice of designing agents with a narrowly defined task domain, a constrained and explicit capability set, and a formal cooperation interface that enables handoff to other specialised agents when the task exceeds the agent's domain — producing agents that outperform general-purpose agents within their domain while remaining composable in multi-agent systems that exceed any single domain.
+> The architectural practice of designing agents with a narrowly defined task domain, a constrained and explicit capability set, and a formal cooperation interface that enables handoff to other specialised agents when the task exceeds the agent’s domain — producing agents that outperform general-purpose agents within their domain while remaining composable in multi-agent systems that exceed any single domain.
 
 ## Extended Definition
 
 The principle that makes specialised autonomous businesses structurally superior to diversified incumbents — that a company engineered for one task class at high volume produces a structural cost and quality advantage that a general-purpose competitor cannot replicate — applies at the agent design level. A general-purpose agent asked to execute sales qualification, generate marketing content, resolve customer support tickets, and run financial analysis is optimised for none of them. Its system prompt is a compromise. Its tool set is a superset that adds cost without adding capability at any specific task. Its output on each task class is the intersection of what a generalist can produce rather than what a specialist can produce.
 
-An Agent Specialisation is defined by three properties. First, a Task Domain Boundary: the explicit specification of which tasks fall within the agent's operational scope and which require handoff. The boundary is not vague but precise: the agent handles inbound support tickets of a defined classification range, as specified in the Exception Architecture — any ticket outside that classification is escalated. Second, a constrained capability set: the agent has access only to the tools, data sources, and model capabilities required for its defined domain. Tool sprawl — giving an agent access to every available API because it might need them — produces ambiguity at tool selection time and increases the surface area for Handoff Friction when the agent calls the wrong tool. Third, a cooperation interface: the agent exposes a defined protocol by which other agents can invoke it with a structured request and receive a structured response. This is what makes Agent Specialisation composable: a sales intelligence agent can invoke a data retrieval specialist, which invokes a web search specialist, which returns structured output the sales agent can use without understanding the mechanics of how it was produced.
+An Agent Specialisation is defined by three properties. First, a Task Domain Boundary: the explicit specification of which tasks fall within the agent’s operational scope and which require handoff. The boundary is not vague but precise: the agent handles inbound support tickets of a defined classification range, as specified in the Exception Architecture — any ticket outside that classification is escalated. Second, a constrained capability set: the agent has access only to the tools, data sources, and model capabilities required for its defined domain. Tool sprawl — giving an agent access to every available API because it might need them — produces ambiguity at tool selection time and increases the surface area for Handoff Friction when the agent calls the wrong tool. Third, a cooperation interface: the agent exposes a defined protocol by which other agents can invoke it with a structured request and receive a structured response. This is what makes Agent Specialisation composable: a sales intelligence agent can invoke a data retrieval specialist, which invokes a web search specialist, which returns structured output the sales agent can use without understanding the mechanics of how it was produced.
 
-**Sub-concept: Task Domain Boundary** — The explicit specification of which tasks fall within an agent's operational scope and which require handoff to another specialised agent — the design input that determines the agent's tool set, cooperation interface, and Intervention Threshold.
+**Sub-concept: Task Domain Boundary** — The explicit specification of which tasks fall within an agent’s operational scope and which require handoff to another specialised agent — the design input that determines the agent’s tool set, cooperation interface, and Intervention Threshold.
 
 ## Related Terms
 
@@ -24,7 +24,7 @@ An Agent Specialisation is defined by three properties. First, a Task Domain Bou
 ## Articles
 
 - [The Knowledge Handoff Problem](https://arcoventure.studio/blog/the-knowledge-handoff-problem)
-- [The Steward's True Asset](https://arcoventure.studio/blog/the-stewards-true-asset)
+- [The Steward’s True Asset](https://arcoventure.studio/blog/the-stewards-true-asset)
 
 ## References
 

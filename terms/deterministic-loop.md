@@ -1,6 +1,6 @@
 # Deterministic Loop
 
-> A revenue loop in which the core transaction steps follow a fixed, encodable sequence — the architectural precondition for autonomous operation and Arco's second structural indicator of a breakable market.
+> 
 
 ## Extended Definition
 

@@ -24,7 +24,7 @@ The term is deliberately operational rather than strategic. Market strategy conc
 - [How to Choose a Market That Actually Works (Instead of Guessing)](https://arcoventure.studio/blog/how-to-choose-a-market)
 - [What Makes a Market Certain Enough to Build Into](https://arcoventure.studio/blog/what-makes-a-market-certain-enough)
 - [Markets That Work: The Case for Operational Arbitrage](https://arcoventure.studio/blog/markets-that-work)
-- [Why You Shouldn't Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
+- [Why You Shouldn’t Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
 
 ## References
 

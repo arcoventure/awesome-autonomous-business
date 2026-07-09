@@ -24,7 +24,7 @@ The Automation Paradox compounds the Coordination Trap. Where the Coordination T
 ## Articles
 
 - [Why Most AI Transformations Fail (The Coordination Tax Explained)](https://arcoventure.studio/blog/why-ai-transformations-fail)
-- [Why AI Businesses Scale Without Hiring (And Why Most Companies Can't)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
+- [Why AI Businesses Scale Without Hiring (And Why Most Companies Can’t)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 
 ## References

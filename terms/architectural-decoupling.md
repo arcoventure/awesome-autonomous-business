@@ -26,7 +26,7 @@ The difference between Architectural Decoupling and conventional business automa
 ## Articles
 
 - [How to Design a Business That Runs Without You](https://arcoventure.studio/blog/how-to-design-a-business-that-runs-without-you)
-- [Why You Shouldn't Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
+- [Why You Shouldn’t Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
 - [Engineering for Liquidity: Why Autonomous Companies Are the Ultimate Acquisition Targets](https://arcoventure.studio/blog/engineering-for-liquidity)
 - [The Stewardship Model: The Human Role in an Autonomous Business](https://arcoventure.studio/blog/stewardship-model)
 

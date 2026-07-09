@@ -6,7 +6,7 @@
 
 Most agentic workflows contain waiting periods that are not execution periods: waiting for a human approval, a slow external API response, a scheduled time window, or a downstream agent to complete a sub-task. In a continuously running architecture, the agent process continues to hold compute resources during those waiting periods. At low volume, this is negligible. At production scale — where hundreds of agent workflows may be suspended simultaneously awaiting various external signals — idle compute cost becomes the dominant cost driver and the infrastructure the primary source of Operational Drag.
 
-Suspend/Resume Architecture addresses this by treating pause as a first-class execution state. At the suspension checkpoint, the workflow serialises its full execution state — the inputs received, the steps completed, the outputs produced, the context accumulated — to a durable store (a database, an object store, or a workflow-specific persistence layer) and releases its compute resources. The agent's cost drops to storage cost during the suspension period. When the defined trigger fires, the infrastructure deserialises the execution state from the durable store, instantiates the agent process, and resumes execution from the exact checkpoint where it paused. From the agent's perspective, no time has elapsed. From the infrastructure's perspective, no compute was consumed while the agent waited.
+Suspend/Resume Architecture addresses this by treating pause as a first-class execution state. At the suspension checkpoint, the workflow serialises its full execution state — the inputs received, the steps completed, the outputs produced, the context accumulated — to a durable store (a database, an object store, or a workflow-specific persistence layer) and releases its compute resources. The agent’s cost drops to storage cost during the suspension period. When the defined trigger fires, the infrastructure deserialises the execution state from the durable store, instantiates the agent process, and resumes execution from the exact checkpoint where it paused. From the agent’s perspective, no time has elapsed. From the infrastructure’s perspective, no compute was consumed while the agent waited.
 
 The durable store requirement is structural, not optional. A suspended workflow that lives only in memory will not survive a server restart. In production, process restarts are not edge cases — they are operational realities that occur through deployment cycles, infrastructure scaling events, and failure recovery. A Suspend/Resume Architecture that does not persist to a durable store is a Suspend/Resume Architecture that loses state under the exact conditions where state preservation matters most.
 
@@ -22,6 +22,7 @@ The durable store requirement is structural, not optional. A suspended workflow 
 
 ## Articles
 
+- [The Event That Wakes the Agent](https://arcoventure.studio/blog/the-event-that-wakes-the-agent)
 - [Infrastructure Is Architecture](https://arcoventure.studio/blog/infrastructure-is-architecture)
 
 ## References

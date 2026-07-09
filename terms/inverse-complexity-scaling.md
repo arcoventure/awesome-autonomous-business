@@ -28,7 +28,7 @@ This inversion is not gradual. It is the consequence of a binary architectural c
 ## Articles
 
 - [Why Autonomous Businesses Compound Faster Than Traditional Companies](https://arcoventure.studio/blog/why-autonomous-businesses-compound-faster)
-- [Why AI Businesses Scale Without Hiring (And Why Most Companies Can't)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
+- [Why AI Businesses Scale Without Hiring (And Why Most Companies Can’t)](https://arcoventure.studio/blog/why-ai-businesses-scale-without-hiring)
 - [Operational Arbitrage: Where the Money in AI Businesses Actually Comes From](https://arcoventure.studio/blog/operational-arbitrage-ai-business)
 - [Overhead Is a Design Choice](https://arcoventure.studio/blog/overhead-is-a-design-choice)
 

@@ -27,8 +27,8 @@ This is the architectural expression of the Execution Layer and Judgment Layer s
 
 - [Automated vs Autonomous: The Architectural Difference Most Companies Miss](https://arcoventure.studio/blog/automated-vs-autonomous-architectural-difference)
 - [How to Design a Business That Runs Without You](https://arcoventure.studio/blog/how-to-design-a-business-that-runs-without-you)
-- [Why You Shouldn't Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
-- [What Is an Autonomous Business? (And Why Most Companies Aren't)](https://arcoventure.studio/blog/what-is-an-autonomous-business)
+- [Why You Shouldn’t Build MVPs (And What to Do Instead)](https://arcoventure.studio/blog/why-you-shouldnt-build-mvps)
+- [What Is an Autonomous Business? (And Why Most Companies Aren’t)](https://arcoventure.studio/blog/what-is-an-autonomous-business)
 
 ## References
 
